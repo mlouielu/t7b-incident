@@ -67,6 +67,10 @@ def incidents():
     return jsonify({'data': DATA})
 
 
+main.init_mileage_sign()
+load_incident_data()
+
+
 if __name__ == '__main__':
     main.init_mileage_sign()
     load_incident_data()
