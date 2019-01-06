@@ -1,256 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
-        <Style id="184">
-            <LabelStyle id="185">
-                <color>ff0000ff</color>
-                <colorMode>normal</colorMode>
-                <scale>1</scale>
-            </LabelStyle>
-        </Style>
-        <Placemark id="3">
-            <name>1.0 - 2015年05月11日 2:40</name>
-            <description>2015年05月11日 2:40
-新北市三峽區前0公尺數台7乙線1K處
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="2">
-                <coordinates>121.368465,24.901813,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5">
-            <name>1.1 - 2015年07月17日 11:15</name>
-            <description>2015年07月17日 11:15
-新北市三峽區臺7乙線道路前1.1K
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="4">
-                <coordinates>121.36805,24.901122,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="7">
-            <name>1.1 - 2016年07月18日 1:00</name>
-            <description>2016年07月18日 1:00
-新北市三峽區臺7乙線道路1.1K前
-死亡0
-受傷5
-自用-小客車
-自用-小客車
-自用-小客車
-自用-小客車
-自用-小客車
-</description>
-            <Point id="6">
-                <coordinates>121.368037,24.901201,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9">
-            <name>1.2 - 2015年01月22日 16:30</name>
-            <description>2015年01月22日 16:30
-新北市三峽區臺7乙線道路1.2K往大溪
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="8">
-                <coordinates>121.36736,24.900672,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="11">
-            <name>1.2 - 2015年04月06日 9:46</name>
-            <description>2015年04月06日 9:46
-新北市三峽區臺7乙線道路前1.2K
-死亡0
-受傷1
-腳踏自行車-慢車
-
-
-
-
-</description>
-            <Point id="10">
-                <coordinates>121.3673,24.900603,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="13">
-            <name>1.4 - 2015年08月08日 15:42</name>
-            <description>2015年08月08日 15:42
-新北市三峽區臺7乙線道路前1.4K
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="12">
-                <coordinates>121.368635,24.899389,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15">
-            <name>1.6 - 2016年05月09日 14:00</name>
-            <description>2016年05月09日 14:00
-新北市三峽區臺7乙線道路前0公尺數1.6K處
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="14">
-                <coordinates>121.370278,24.89855,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="17">
-            <name>1.9 - 2015年03月29日 9:36</name>
-            <description>2015年03月29日 9:36
-新北市三峽區臺7乙線道路前1.9K
-死亡0
-受傷4
-大型重型1-機車
-普通重型-機車
-大型重型1-機車
-大型重型1-機車
-
-</description>
-            <Point id="16">
-                <coordinates>121.370863,24.896122,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="19">
-            <name>3.0 - 2017年07月18日 13:15:00</name>
-            <description>2017年07月18日 13:15:00
-新北市三峽區台7乙線 3公里南向其他
-死亡0
-受傷1
-租賃車-小客車
-自用-小貨車(含客、貨兩用)
-乘客-人
-
-
-</description>
-            <Point id="18">
-                <coordinates>121.37594,24.88767,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21">
-            <name>3.4 - 2015年06月09日 19:11</name>
-            <description>2015年06月09日 19:11
-新北市三峽區臺7乙線道路前0公尺數台7乙3.4K處西向一般車道(未劃分車道圳頭51號前
-死亡0
-受傷1
-自用-大貨車
-普通重型-機車
-
-
-
-</description>
-            <Point id="20">
-                <coordinates>121.37694,24.884243,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="23">
-            <name>3.8 - 2015年11月15日 16:11</name>
-            <description>2015年11月15日 16:11
-新北市三峽區臺7乙線道路前3.8K
-死亡0
-受傷3
-大型重型1-機車
-大型重型1-機車
-大型重型1-機車
-
-
-</description>
-            <Point id="22">
-                <coordinates>121.379174,24.881481,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="25">
-            <name>4.0 - 2017年07月08日 12:25:00</name>
-            <description>2017年07月08日 12:25:00
-新北市三峽區台7乙線 4公里南向其他
-死亡0
-受傷1
-普通重型-機車
-普通重型-機車
-
-
-
-</description>
-            <Point id="24">
-                <coordinates>121.380042,24.879781,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="27">
-            <name>4.2 - 2016年06月25日 9:10</name>
-            <description>2016年06月25日 9:10
-新北市三峽區臺7乙線道路前0公尺數臺7乙線4.2K處東向一般車道(未劃分車道
-死亡0
-受傷2
-自用-小客車
-大型重型1-機車
-其他人-人
-
-
-</description>
-            <Point id="26">
-                <coordinates>121.380024,24.87801,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="29">
-            <name>5.0 - 2015年06月03日 21:52</name>
-            <description>2015年06月03日 21:52
-新北市三峽區五寮里1鄰臺7乙線道路前5.0K
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="28">
-                <coordinates>121.377393,24.872267,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="31">
-            <name>6.1 - 2015年09月27日 10:30</name>
-            <description>2015年09月27日 10:30
-新北市三峽區五寮里台7乙線之6.1K處號
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="30">
-                <coordinates>121.369796,24.866029,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="33">
-            <name>6.5 - 2014年11月06日 15:21</name>
-            <description>2014年11月06日 15:21
+        <Folder id="2">
+            <name>2014</name>
+            <Placemark id="69">
+                <name>6.5 - 2014年11月06日 15:21</name>
+                <description>2014年11月06日 15:21
 新北市三峽區臺7乙線道路前6.5K
 死亡0
 受傷1
@@ -260,125 +15,13 @@
 
 
 </description>
-            <Point id="32">
-                <coordinates>121.366565,24.864657,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="35">
-            <name>7.2 - 2017年11月15日 16:48:00</name>
-            <description>2017年11月15日 16:48:00
-新北市三峽區台7乙線 7.2K處南向其他
-死亡0
-受傷1
-自用-小客車
-大型重型1(550C.C.以上)-機車
-
-
-
-</description>
-            <Point id="34">
-                <coordinates>121.361627,24.860715,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="37">
-            <name>7.7 - 2015年05月15日 16:20</name>
-            <description>2015年05月15日 16:20
-新北市三峽區五寮里臺7乙線道路7.7K處
-死亡0
-受傷1
-自用-大貨車
-大型重型1-機車
-
-
-
-</description>
-            <Point id="36">
-                <coordinates>121.359272,24.857156,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="39">
-            <name>7.7 - 2015年05月30日 15:55</name>
-            <description>2015年05月30日 15:55
-新北市三峽區五寮里6鄰臺7乙線道路前7.7K數前7.7公尺五寮市民活動中心前(五寮派出所旁)
-死亡0
-受傷1
-普通重型-機車
-普通重型-機車
-
-
-
-</description>
-            <Point id="38">
-                <coordinates>121.359232,24.857152,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="41">
-            <name>7.9 - 2015年01月04日 13:35</name>
-            <description>2015年01月04日 13:35
-新北市三峽區五寮里臺7乙線道路7.9K
-死亡0
-受傷1
-普通重型-機車
-自用-小貨車
-
-
-
-</description>
-            <Point id="40">
-                <coordinates>121.358796,24.85543,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="43">
-            <name>7.9 - 2015年05月16日 8:49</name>
-            <description>2015年05月16日 8:49
-新北市三峽區五寮里臺7乙線道路前7.9K
-死亡0
-受傷2
-普通重型-機車
-大型重型1-機車
-
-
-
-</description>
-            <Point id="42">
-                <coordinates>121.358755,24.855431,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="45">
-            <name>8.0 - 2015年04月04日 21:04</name>
-            <description>2015年04月04日 21:04
-新北市三峽區五寮里臺7乙線道路前8.0K
-死亡0
-受傷3
-普通重型-機車
-普通重型-機車
-普通重型-機車
-普通重型-機車
-
-</description>
-            <Point id="44">
-                <coordinates>121.357748,24.855406,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="47">
-            <name>8.1 - 2015年09月09日 10:50</name>
-            <description>2015年09月09日 10:50
-新北市三峽區五寮里臺7乙線道路前8.1K
-死亡0
-受傷1
-普通重型-機車
-自用-小貨車
-
-
-
-</description>
-            <Point id="46">
-                <coordinates>121.357245,24.854851,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="49">
-            <name>8.3 - 2014年04月03日 15:29</name>
-            <description>2014年04月03日 15:29
+                <Point id="68">
+                    <coordinates>121.366596,24.864652,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="101">
+                <name>8.3 - 2014年04月03日 15:29</name>
+                <description>2014年04月03日 15:29
 桃園縣大溪鎮台7乙線8.3公里處(附近)
 死亡0
 受傷1
@@ -388,13 +31,13 @@
 
 
 </description>
-            <Point id="48">
-                <coordinates>121.356141,24.853741,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="51">
-            <name>8.6 - 2014年09月27日 1:13</name>
-            <description>2014年09月27日 1:13
+                <Point id="100">
+                    <coordinates>121.356124,24.853837,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="105">
+                <name>8.6 - 2014年09月27日 1:13</name>
+                <description>2014年09月27日 1:13
 桃園縣大溪鎮台7乙線8.6K處北向內側車道
 死亡0
 受傷1
@@ -404,413 +47,13 @@
 
 
 </description>
-            <Point id="50">
-                <coordinates>121.3538,24.852731,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="53">
-            <name>8.6 - 2015年01月06日 13:00</name>
-            <description>2015年01月06日 13:00
-桃園市大溪區台7乙線8.6公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="52">
-                <coordinates>121.353772,24.852652,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="55">
-            <name>8.6 - 2015年02月28日 16:53</name>
-            <description>2015年02月28日 16:53
-桃園市大溪區台7乙線8.6K處北向外側車道
-死亡0
-受傷1
-大型重型1-機車
-
-
-
-
-</description>
-            <Point id="54">
-                <coordinates>121.353844,24.852738,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="57">
-            <name>8.6 - 2016年02月29日 15:08</name>
-            <description>2016年02月29日 15:08
-桃園市大溪區台7乙線8.6公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="56">
-                <coordinates>121.353791,24.852731,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="59">
-            <name>8.6 - 2016年04月27日 15:45</name>
-            <description>2016年04月27日 15:45
-桃園市大溪區台7乙線8.6公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="58">
-                <coordinates>121.353814,24.852626,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="61">
-            <name>8.6 - 2016年11月04日 15:10</name>
-            <description>2016年11月04日 15:10
-桃園市大溪區台7乙線8.6公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="60">
-                <coordinates>121.35389,24.852751,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="63">
-            <name>8.6 - 2017年01月23日 10:35:00</name>
-            <description>2017年01月23日 10:35:00
-桃園市大溪區台7乙線8.6公里處
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="62">
-                <coordinates>121.353755,24.852676,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="65">
-            <name>8.6 - 2017年02月12日 16:25:00</name>
-            <description>2017年02月12日 16:25:00
-桃園市大溪區台7乙 8.6公里處北向補助
-死亡0
-受傷1
-大型重型1(550C.C.以上)-機車
-
-
-
-
-</description>
-            <Point id="64">
-                <coordinates>121.353883,24.852655,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="67">
-            <name>8.7 - 2015年10月20日 13:17</name>
-            <description>2015年10月20日 13:17
-桃園市大溪區台7乙線8.7K(附近)
-死亡0
-受傷2
-普通重型-機車
-普通重型-機車
-自用-小客車
-
-
-</description>
-            <Point id="66">
-                <coordinates>121.35307,24.852363,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="69">
-            <name>8.8 - 2016年04月09日 11:05</name>
-            <description>2016年04月09日 11:05
-桃園市大溪區台7乙線8.8公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="68">
-                <coordinates>121.352295,24.851891,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="71">
-            <name>8.8 - 2016年05月28日 8:02</name>
-            <description>2016年05月28日 8:02
-桃園市大溪區台7乙線8.8公里處(附近)
-死亡0
-受傷2
-大型重型1-機車
-大型重型1-機車
-大型重型1-機車
-
-
-</description>
-            <Point id="70">
-                <coordinates>121.35227,24.851819,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="73">
-            <name>8.9 - 2015年04月15日 16:30</name>
-            <description>2015年04月15日 16:30
-桃園市大溪區台7乙線8.9公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="72">
-                <coordinates>121.351512,24.851418,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="75">
-            <name>8.9 - 2016年05月07日 12:25</name>
-            <description>2016年05月07日 12:25
-桃園市大溪區台7乙線8.9公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="74">
-                <coordinates>121.351546,24.851316,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="77">
-            <name>9.0 - 2015年07月31日 16:52</name>
-            <description>2015年07月31日 16:52
-桃園市大溪區台7乙線9K(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="76">
-                <coordinates>121.351329,24.850514,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="79">
-            <name>9.0 - 2015年09月19日 16:55</name>
-            <description>2015年09月19日 16:55
-桃園市大溪區台7乙線9K(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="78">
-                <coordinates>121.351291,24.850573,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="81">
-            <name>9.0 - 2015年1月6日 13:05</name>
-            <description>2015年1月6日 13:05
-桃園市大溪區台7乙線9公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="80">
-                <coordinates>121.351233,24.85041,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="83">
-            <name>9.0 - 2016年06月04日 8:19</name>
-            <description>2016年06月04日 8:19
-桃園市大溪區台7乙線9K(附近)
-死亡0
-受傷1
-大型重型1-機車
-
-
-
-
-</description>
-            <Point id="82">
-                <coordinates>121.351309,24.850563,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="85">
-            <name>9.0 - 2016年06月24日 23:50</name>
-            <description>2016年06月24日 23:50
-桃園市大溪區台7乙線9公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="84">
-                <coordinates>121.351279,24.850393,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="87">
-            <name>9.0 - 2016年11月11日 13:57</name>
-            <description>2016年11月11日 13:57
-桃園市大溪區台7乙線9K(附近)
-死亡0
-受傷1
-大型重型1-機車
-
-
-
-
-</description>
-            <Point id="86">
-                <coordinates>121.351292,24.850471,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="89">
-            <name>9.0 - 2017年04月20日 14:55:00</name>
-            <description>2017年04月20日 14:55:00
-桃園市大溪區台7乙 9.0公里南向補助
-死亡0
-受傷1
-普通重型-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="88">
-                <coordinates>121.351375,24.850492,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="91">
-            <name>9.0 - 2017年07月02日 12:54:00</name>
-            <description>2017年07月02日 12:54:00
-桃園市大溪區台7乙線 9公里
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="90">
-                <coordinates>121.351295,24.850542,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="93">
-            <name>9.0 - 2017年11月11日 14:46:00</name>
-            <description>2017年11月11日 14:46:00
-桃園市復興區台7乙線 9公里北
-死亡0
-受傷1
-自用-小客車
-
-
-
-
-</description>
-            <Point id="92">
-                <coordinates>121.351301,24.850555,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="95">
-            <name>9.0 - 2017年12月22日 15:25:00</name>
-            <description>2017年12月22日 15:25:00
-桃園市大溪區台7乙線 9公里北向路肩
-死亡0
-受傷1
-大型重型1(550C.C.以上)-機車
-
-
-
-
-</description>
-            <Point id="94">
-                <coordinates>121.351301,24.850401,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="97">
-            <name>9.1 - 2015年04月03日 11:10</name>
-            <description>2015年04月03日 11:10
-桃園市大溪區台7乙線9.1公里(附近)台7乙線9公里100公尺處北向外側車道
-死亡0
-受傷2
-普通重型-機車
-普通重型-機車
-
-
-
-</description>
-            <Point id="96">
-                <coordinates>121.350877,24.849862,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="99">
-            <name>9.1 - 2015年07月05日 14:10</name>
-            <description>2015年07月05日 14:10
-桃園市大溪區台7乙線9.1K處(附近)
-死亡0
-受傷1
-普通重型-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="98">
-                <coordinates>121.350748,24.849929,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="101">
-            <name>9.1 - 2017年10月29日 8:00:22</name>
-            <description>2017年10月29日 8:00:22
-桃園市大溪區台7乙線 9.1K處西向爬坡
-死亡0
-受傷2
-普通重型-機車
-行人-人
-
-
-
-</description>
-            <Point id="100">
-                <coordinates>121.350728,24.849864,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="103">
-            <name>9.3 - 2014年10月12日 16:53</name>
-            <description>2014年10月12日 16:53
+                <Point id="104">
+                    <coordinates>121.353907,24.852688,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="209">
+                <name>9.3 - 2014年10月12日 16:53</name>
+                <description>2014年10月12日 16:53
 桃園縣大溪鎮台7乙線9.3K處南向外側車道
 死亡0
 受傷2
@@ -820,61 +63,13 @@
 
 
 </description>
-            <Point id="102">
-                <coordinates>121.3489,24.849901,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="105">
-            <name>9.3 - 2016年01月18日 15:45</name>
-            <description>2016年01月18日 15:45
-桃園市大溪區台7乙線9.3K(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="104">
-                <coordinates>121.348919,24.849846,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="107">
-            <name>9.3 - 2017年10月09日 7:15:57</name>
-            <description>2017年10月09日 7:15:57
-桃園市大溪區三民路二段165巷口(台7乙線9.3K)
-死亡0
-受傷2
-自用-小客車
-普通重型-機車
-大型重型1(550C.C.以上)-機車
-
-
-</description>
-            <Point id="106">
-                <coordinates>121.348904,24.849924,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="109">
-            <name>9.5 - 2017年12月10日 18:34:00</name>
-            <description>2017年12月10日 18:34:00
-桃園市大溪區台7乙線 9.5K處南向路肩
-死亡0
-受傷1
-普通重型-機車
-普通重型-機車
-
-
-
-</description>
-            <Point id="108">
-                <coordinates>121.348294,24.851519,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="111">
-            <name>9.6 - 2014年01月30日 11:15</name>
-            <description>2014年01月30日 11:15
+                <Point id="208">
+                    <coordinates>121.348845,24.849934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="225">
+                <name>9.6 - 2014年01月30日 11:15</name>
+                <description>2014年01月30日 11:15
 桃園縣大溪鎮台7乙線9.6公里處(附近)
 死亡0
 受傷1
@@ -884,173 +79,13 @@
 
 
 </description>
-            <Point id="110">
-                <coordinates>121.347455,24.851606,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="113">
-            <name>9.6 - 2015年07月26日 12:38</name>
-            <description>2015年07月26日 12:38
-桃園市大溪區台7乙線9.6K處南向中線車道
-死亡0
-受傷1
-普通重型-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="112">
-                <coordinates>121.347502,24.851705,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="115">
-            <name>9.6 - 2015年10月12日 12:10</name>
-            <description>2015年10月12日 12:10
-桃園市大溪區台7乙線9.6公里處(附近)
-死亡0
-受傷1
-自用-小客車
-
-
-
-
-</description>
-            <Point id="114">
-                <coordinates>121.347377,24.851713,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="117">
-            <name>9.6 - 2015年11月22日 12:30</name>
-            <description>2015年11月22日 12:30
-桃園市大溪區台7乙線9.6公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-自用-小貨車
-
-
-
-</description>
-            <Point id="116">
-                <coordinates>121.347478,24.851611,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="119">
-            <name>9.6 - 2016年05月08日 7:30</name>
-            <description>2016年05月08日 7:30
-桃園市大溪區台7乙線9.6公里處(附近)
-死亡0
-受傷1
-大型重型2-機車
-自用-小貨車
-
-
-
-</description>
-            <Point id="118">
-                <coordinates>121.347371,24.851738,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="121">
-            <name>9.6 - 2016年12月16日 16:20</name>
-            <description>2016年12月16日 16:20
-桃園市大溪區台7乙線9.6K處南向爬坡車道
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="120">
-                <coordinates>121.347357,24.85171,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="123">
-            <name>9.6 - 2017年12月13日 13:55:00</name>
-            <description>2017年12月13日 13:55:00
-桃園市大溪區台7乙線 9.6K處南向路肩
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="122">
-                <coordinates>121.34737,24.851653,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="125">
-            <name>9.7 - 2016年10月17日 16:20</name>
-            <description>2016年10月17日 16:20
-桃園市大溪區台7乙線9.7公里處(附近)
-死亡0
-受傷1
-大型重型1-機車
-
-
-
-
-</description>
-            <Point id="124">
-                <coordinates>121.346619,24.851376,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="127">
-            <name>9.7 - 2016年12月24日 13:45</name>
-            <description>2016年12月24日 13:45
-桃園市大溪區台7乙線9.7公里(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="126">
-                <coordinates>121.34654,24.851375,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="129">
-            <name>9.8 - 2017年03月12日 14:16:00</name>
-            <description>2017年03月12日 14:16:00
-桃園市大溪區台7乙線9.8公里處
-死亡0
-受傷1
-普通重型-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="128">
-                <coordinates>121.346418,24.852084,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="131">
-            <name>9.8 - 2017年04月03日 10:40:00</name>
-            <description>2017年04月03日 10:40:00
-桃園市大溪區三民路二段136巷口與台7乙線9.8K處
-死亡0
-受傷1
-普通重型-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="130">
-                <coordinates>121.346363,24.852119,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="133">
-            <name>10.0 - 2014年07月02日 14:40</name>
-            <description>2014年07月02日 14:40
+                <Point id="224">
+                    <coordinates>121.347467,24.851749,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="269">
+                <name>10.0 - 2014年07月02日 14:40</name>
+                <description>2014年07月02日 14:40
 桃園縣大溪鎮台7乙線10K處(附近)
 死亡0
 受傷1
@@ -1060,29 +95,13 @@
 
 
 </description>
-            <Point id="132">
-                <coordinates>121.345074,24.852908,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="135">
-            <name>10.0 - 2015年07月11日 12:40</name>
-            <description>2015年07月11日 12:40
-桃園市大溪區台7乙線10K(附近)
-死亡0
-受傷1
-普通重型-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="134">
-                <coordinates>121.344988,24.852894,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="137">
-            <name>10.1 - 2014年07月18日 23:50</name>
-            <description>2014年07月18日 23:50
+                <Point id="268">
+                    <coordinates>121.345021,24.852886,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="277">
+                <name>10.1 - 2014年07月18日 23:50</name>
+                <description>2014年07月18日 23:50
 桃園縣大溪鎮台7乙線10.1公里處(附近)
 死亡0
 受傷1
@@ -1092,189 +111,13 @@
 
 
 </description>
-            <Point id="136">
-                <coordinates>121.344565,24.853476,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="139">
-            <name>10.1 - 2015年05月02日 12:00</name>
-            <description>2015年05月02日 12:00
-桃園市大溪區台7乙線10.1K(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="138">
-                <coordinates>121.344614,24.853482,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="141">
-            <name>10.1 - 2015年09月06日 13:05</name>
-            <description>2015年09月06日 13:05
-桃園市大溪區台7乙線10.1K處南向中內車道
-死亡0
-受傷2
-普通重型-機車
-自用-小客車
-普通重型-機車
-
-
-</description>
-            <Point id="140">
-                <coordinates>121.344673,24.853408,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="143">
-            <name>10.2 - 2015年04月19日 15:18</name>
-            <description>2015年04月19日 15:18
-桃園市大溪區台7乙線10.2K處北向內側車道
-死亡0
-受傷2
-自用-小客車
-大型重型2-機車
-大型重型2-機車
-
-
-</description>
-            <Point id="142">
-                <coordinates>121.344018,24.854103,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="145">
-            <name>10.3 - 2015年11月29日 11:20</name>
-            <description>2015年11月29日 11:20
-桃園市大溪區台7乙線10.3K(附近)
-死亡0
-受傷1
-普通重型-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="144">
-                <coordinates>121.343648,24.85345,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="147">
-            <name>10.5 - 2015年09月26日 12:30</name>
-            <description>2015年09月26日 12:30
-桃園市大溪區台7乙線10.5K處北向外側車道
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="146">
-                <coordinates>121.343922,24.851741,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="149">
-            <name>10.5 - 2016年07月21日 0:46</name>
-            <description>2016年07月21日 0:46
-桃園市大溪區台7乙10.5K(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="148">
-                <coordinates>121.343856,24.851841,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="151">
-            <name>10.6 - 2015年10月27日 18:20</name>
-            <description>2015年10月27日 18:20
-桃園市大溪區台7乙10.6K處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="150">
-                <coordinates>121.344738,24.851403,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="153">
-            <name>10.6 - 2015年2月14日 15:17</name>
-            <description>2015年2月14日 15:17
-桃園市大溪區台7乙線10.6公里處(附近)台7乙線10公里600公尺處南向外側車道
-死亡0
-受傷1
-大型重型1-機車
-自用-小客車
-
-
-
-</description>
-            <Point id="152">
-                <coordinates>121.344715,24.851465,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="155">
-            <name>10.6 - 2015年2月28日 16:00</name>
-            <description>2015年2月28日 16:00
-桃園市大溪區台七乙線10.6公里處(附近)台7乙線10公里600公尺處北向外側車道
-死亡0
-受傷2
-普通重型-機車
-普通重型-機車
-
-
-
-</description>
-            <Point id="154">
-                <coordinates>121.344694,24.851575,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="157">
-            <name>10.6 - 2016年07月12日 13:30</name>
-            <description>2016年07月12日 13:30
-桃園市大溪區台7乙線10.6K處北向路旁護欄車道
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="156">
-                <coordinates>121.344677,24.851481,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="159">
-            <name>10.6 - 2017年10月10日 15:45:00</name>
-            <description>2017年10月10日 15:45:00
-桃園市大溪區台7乙線 10.6K處北向路肩
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="158">
-                <coordinates>121.344671,24.851516,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="161">
-            <name>10.7 - 2014年04月19日 15:50</name>
-            <description>2014年04月19日 15:50
+                <Point id="276">
+                    <coordinates>121.344653,24.85347,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="325">
+                <name>10.7 - 2014年04月19日 15:50</name>
+                <description>2014年04月19日 15:50
 桃園縣大溪鎮新峰里台7乙線10.7K處北向爬坡車道
 死亡0
 受傷1
@@ -1284,45 +127,13 @@
 
 
 </description>
-            <Point id="160">
-                <coordinates>121.344126,24.850998,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="163">
-            <name>10.7 - 2016年09月06日 7:40</name>
-            <description>2016年09月06日 7:40
-桃園市大溪區台7乙線10.7公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="162">
-                <coordinates>121.344229,24.851023,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="165">
-            <name>10.8 - 2015年05月11日 18:35</name>
-            <description>2015年05月11日 18:35
-桃園市大溪區台7乙線10.8公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="164">
-                <coordinates>121.343257,24.851181,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="167">
-            <name>11.0 - 2014年11月20日 15:37</name>
-            <description>2014年11月20日 15:37
+                <Point id="324">
+                    <coordinates>121.344248,24.850904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="337">
+                <name>11.0 - 2014年11月20日 15:37</name>
+                <description>2014年11月20日 15:37
 桃園縣大溪鎮新峰里台7乙線11.0K處北向外側車道
 死亡0
 受傷1
@@ -1332,29 +143,13 @@
 
 
 </description>
-            <Point id="166">
-                <coordinates>121.341944,24.852134,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="169">
-            <name>11.2 - 2015年06月14日 14:20</name>
-            <description>2015年06月14日 14:20
-桃園市大溪區台7乙線11.2K(附近)
-死亡0
-受傷1
-自用-小客車
-
-
-
-
-</description>
-            <Point id="168">
-                <coordinates>121.340432,24.851112,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="171">
-            <name>11.3 - 2014年04月21日 15:00</name>
-            <description>2014年04月21日 15:00
+                <Point id="336">
+                    <coordinates>121.341929,24.852209,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="345">
+                <name>11.3 - 2014年04月21日 15:00</name>
+                <description>2014年04月21日 15:00
 桃園縣大溪鎮新峰里里8鄰台7乙線11.3K處北向爬坡車道
 死亡0
 受傷2
@@ -1364,13 +159,13 @@
 
 
 </description>
-            <Point id="170">
-                <coordinates>121.339648,24.851329,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="173">
-            <name>11.3 - 2014年06月17日 1:20</name>
-            <description>2014年06月17日 1:20
+                <Point id="344">
+                    <coordinates>121.339733,24.851206,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="349">
+                <name>11.3 - 2014年06月17日 1:20</name>
+                <description>2014年06月17日 1:20
 桃園縣大溪鎮台7乙線11.3K處北向爬坡車道
 死亡0
 受傷1
@@ -1380,94 +175,13 @@
 
 
 </description>
-            <Point id="172">
-                <coordinates>121.339774,24.85132,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="175">
-            <name>11.3 - 2015年07月21日 19:08</name>
-            <description>2015年07月21日 19:08
-桃園市大溪區台7乙線11.3K北向中線車道
-死亡0
-受傷1
-普通重型-機車
-自用-小貨車
-
-
-
-</description>
-            <Point id="174">
-                <coordinates>121.339639,24.851301,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="177">
-            <name>11.3 - 2015年10月25日 2:12</name>
-            <description>2015年10月25日 2:12
-桃園市大溪區台7乙線11.3K處北向外側車道
-死亡0
-受傷1
-自用-小客車
-
-
-
-
-</description>
-            <Point id="176">
-                <coordinates>121.339696,24.851351,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="179">
-            <name>11.3 - 2015年11月10日 9:02</name>
-            <description>2015年11月10日 9:02
-桃園市大溪區台7乙線11.3K(附近)
-死亡0
-受傷1
-自用-小客車
-普通重型-機車
-
-
-
-</description>
-            <Point id="178">
-                <coordinates>121.339794,24.851271,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="181">
-            <name>11.3 - 2017年08月13日 7:45:15</name>
-            <description>2017年08月13日 7:45:15
-桃園市大溪區台7乙線 11.3公里3處南
-死亡0
-受傷6
-自用-小客車
-自用-小貨車(含客、貨兩用)
-乘客-人
-乘客-人
-乘客-人
-乘客-人</description>
-            <Point id="180">
-                <coordinates>121.339715,24.851202,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="183">
-            <name>11.3 - 2017年12月24日 14:12:00</name>
-            <description>2017年12月24日 14:12:00
-桃園市大溪區台7乙11.3K
-死亡1
-受傷0
-普通輕型-機車
-自用-小客車
-
-
-
-</description>
-            <styleUrl>#184</styleUrl>
-            <Point id="182">
-                <coordinates>121.339692,24.851244,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="187">
-            <name>11.5 - 2014年09月08日 1:05</name>
-            <description>2014年09月08日 1:05
+                <Point id="348">
+                    <coordinates>121.339742,24.851233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="377">
+                <name>11.5 - 2014年09月08日 1:05</name>
+                <description>2014年09月08日 1:05
 桃園縣大溪鎮台7乙線11.5K處北向內側車道
 死亡0
 受傷1
@@ -1477,13 +191,13 @@
 
 
 </description>
-            <Point id="186">
-                <coordinates>121.3381,24.85087,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="189">
-            <name>11.7 - 2014年02月03日 9:20</name>
-            <description>2014年02月03日 9:20
+                <Point id="376">
+                    <coordinates>121.33812,24.850947,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="381">
+                <name>11.7 - 2014年02月03日 9:20</name>
+                <description>2014年02月03日 9:20
 桃園縣大溪鎮新峰里9鄰台七乙線11.7K處(附近)台7乙線11公里7公尺處西向中線車道
 死亡0
 受傷2
@@ -1493,45 +207,13 @@
 
 
 </description>
-            <Point id="188">
-                <coordinates>121.336449,24.850063,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="191">
-            <name>11.7 - 2015年09月02日 10:45</name>
-            <description>2015年09月02日 10:45
-桃園市大溪區台7乙線11.7公里處(附近)
-死亡0
-受傷2
-大型重型1-機車
-腳踏自行車-慢車
-腳踏自行車-慢車
-
-
-</description>
-            <Point id="190">
-                <coordinates>121.336445,24.850056,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="193">
-            <name>11.7 - 2016年09月11日 12:15</name>
-            <description>2016年09月11日 12:15
-桃園市大溪區台7乙線11.7公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="192">
-                <coordinates>121.336408,24.850179,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="195">
-            <name>11.8 - 2014年08月24日 14:10</name>
-            <description>2014年08月24日 14:10
+                <Point id="380">
+                    <coordinates>121.336466,24.850149,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="393">
+                <name>11.8 - 2014年08月24日 14:10</name>
+                <description>2014年08月24日 14:10
 桃園縣大溪鎮台七乙線11.8公里處(附近)台7乙線11.85K處北向爬坡車道
 死亡0
 受傷1
@@ -1541,45 +223,13 @@
 
 
 </description>
-            <Point id="194">
-                <coordinates>121.335518,24.849746,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="197">
-            <name>11.8 - 2015年07月23日 9:30</name>
-            <description>2015年07月23日 9:30
-桃園市大溪區台7乙線11.8公里處(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="196">
-                <coordinates>121.335532,24.849665,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="199">
-            <name>11.8 - 2015年09月16日 15:30</name>
-            <description>2015年09月16日 15:30
-桃園市大溪區台7乙線11.8K處北向中外車道
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="198">
-                <coordinates>121.335573,24.849847,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="201">
-            <name>11.9 - 2014年02月26日 13:43</name>
-            <description>2014年02月26日 13:43
+                <Point id="392">
+                    <coordinates>121.33556,24.849814,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="405">
+                <name>11.9 - 2014年02月26日 13:43</name>
+                <description>2014年02月26日 13:43
 桃園縣大溪鎮新峰里9鄰台7乙線11.9K處南向東車道
 死亡0
 受傷1
@@ -1589,13 +239,13 @@
 
 
 </description>
-            <Point id="200">
-                <coordinates>121.334926,24.849132,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="203">
-            <name>11.9 - 2014年08月04日 11:00</name>
-            <description>2014年08月04日 11:00
+                <Point id="404">
+                    <coordinates>121.33503,24.849175,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="409">
+                <name>11.9 - 2014年08月04日 11:00</name>
+                <description>2014年08月04日 11:00
 桃園縣大溪鎮新峰里三民路二段(附近)台7乙線11.9K處東向中線車道
 死亡0
 受傷2
@@ -1605,141 +255,13 @@
 
 
 </description>
-            <Point id="202">
-                <coordinates>121.334976,24.84907,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="205">
-            <name>11.9 - 2015年09月24日 3:56</name>
-            <description>2015年09月24日 3:56
-桃園市大溪區台7乙線11.9K處北向外側車道
-死亡0
-受傷1
-普通重型-機車
-普通重型-機車
-
-
-
-</description>
-            <Point id="204">
-                <coordinates>121.334978,24.849195,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="207">
-            <name>12.0 - 2015年04月14日 11:05</name>
-            <description>2015年04月14日 11:05
-桃園市大溪區台7乙線12公里處(附近)
-死亡0
-受傷2
-普通重型-機車
-普通重型-機車
-
-
-
-</description>
-            <Point id="206">
-                <coordinates>121.334398,24.848519,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="209">
-            <name>12.0 - 2015年08月06日 16:40</name>
-            <description>2015年08月06日 16:40
-桃園市大溪區台7乙線12K(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="208">
-                <coordinates>121.334443,24.848548,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="211">
-            <name>12.0 - 2016年07月20日 18:44</name>
-            <description>2016年07月20日 18:44
-桃園市大溪區台7乙線12K(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="210">
-                <coordinates>121.334459,24.848615,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="213">
-            <name>12.2 - 2016年01月25日 14:15</name>
-            <description>2016年01月25日 14:15
-桃園市大溪區台7乙線12.2K處北向補助車道
-死亡0
-受傷1
-大型重型1-機車
-
-
-
-
-</description>
-            <Point id="212">
-                <coordinates>121.33443,24.846852,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="215">
-            <name>12.2 - 2016年08月15日 6:20</name>
-            <description>2016年08月15日 6:20
-桃園市大溪區台7乙線12.2公里處(附近)
-死亡0
-受傷1
-自用-小貨車
-普通重型-機車
-
-
-
-</description>
-            <Point id="214">
-                <coordinates>121.334457,24.846753,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="217">
-            <name>12.8 - 2016年04月05日 16:39</name>
-            <description>2016年04月05日 16:39
-桃園市大溪區台7乙線12.8K(附近)
-死亡0
-受傷2
-自用-小貨車
-普通重型-機車
-普通重型-機車
-
-
-</description>
-            <Point id="216">
-                <coordinates>121.333427,24.842106,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="219">
-            <name>13.1 - 2016年06月16日 9:29</name>
-            <description>2016年06月16日 9:29
-桃園市大溪區台7乙線13.1K處(附近)
-死亡0
-受傷1
-大型重型1-機車
-
-
-
-
-</description>
-            <Point id="218">
-                <coordinates>121.334321,24.839569,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="221">
-            <name>13.3 - 2014年01月05日 11:50</name>
-            <description>2014年01月05日 11:50
+                <Point id="408">
+                    <coordinates>121.335034,24.849108,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="445">
+                <name>13.3 - 2014年01月05日 11:50</name>
+                <description>2014年01月05日 11:50
 桃園縣大溪鎮台七乙線13.3公里處(附近)台7乙線13公里300公尺處東向中線車道
 死亡0
 受傷1
@@ -1749,61 +271,13 @@
 
 
 </description>
-            <Point id="220">
-                <coordinates>121.334255,24.837933,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="223">
-            <name>13.7 - 2017年05月10日 1:00:00</name>
-            <description>2017年05月10日 1:00:00
-桃園市大溪區台7乙線 13.7公里處西向補助
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="222">
-                <coordinates>121.331592,24.835559,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="225">
-            <name>13.8 - 2015年03月15日 10:00</name>
-            <description>2015年03月15日 10:00
-桃園市大溪區台7乙13.8K(附近)
-死亡0
-受傷1
-自用-小客車
-普通重型-機車
-
-
-
-</description>
-            <Point id="224">
-                <coordinates>121.330746,24.835182,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="227">
-            <name>13.8 - 2016年05月09日 10:02</name>
-            <description>2016年05月09日 10:02
-桃園市大溪區新豐里3-1號旁產業道路〈台7乙線13.8公里處〉(附近)
-死亡0
-受傷1
-普通重型-機車
-
-
-
-
-</description>
-            <Point id="226">
-                <coordinates>121.330764,24.835175,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="229">
-            <name>13.9 - 2014年07月13日 10:30</name>
-            <description>2014年07月13日 10:30
+                <Point id="444">
+                    <coordinates>121.334329,24.837892,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="461">
+                <name>13.9 - 2014年07月13日 10:30</name>
+                <description>2014年07月13日 10:30
 桃園縣復興鄉三民村12鄰三民路1段48號前(附近)台7乙線13.9K處北向補助車道
 死亡0
 受傷1
@@ -1813,13 +287,1550 @@
 
 
 </description>
-            <Point id="228">
-                <coordinates>121.33028,24.83435,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="231">
-            <name>13.9 - 2017年11月11日 13:56:00</name>
-            <description>2017年11月11日 13:56:00
+                <Point id="460">
+                    <coordinates>121.330242,24.834382,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="3">
+            <name>2015</name>
+            <Placemark id="9">
+                <name>1.0 - 2015年05月11日 2:40</name>
+                <description>2015年05月11日 2:40
+新北市三峽區前0公尺數台7乙線1K處
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="8">
+                    <coordinates>121.368444,24.901843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="13">
+                <name>1.1 - 2015年07月17日 11:15</name>
+                <description>2015年07月17日 11:15
+新北市三峽區臺7乙線道路前1.1K
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="12">
+                    <coordinates>121.368138,24.901189,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="21">
+                <name>1.2 - 2015年01月22日 16:30</name>
+                <description>2015年01月22日 16:30
+新北市三峽區臺7乙線道路1.2K往大溪
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="20">
+                    <coordinates>121.367261,24.900571,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="25">
+                <name>1.2 - 2015年04月06日 9:46</name>
+                <description>2015年04月06日 9:46
+新北市三峽區臺7乙線道路前1.2K
+死亡0
+受傷1
+腳踏自行車-慢車
+
+
+
+
+</description>
+                <Point id="24">
+                    <coordinates>121.367269,24.900552,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="29">
+                <name>1.4 - 2015年08月08日 15:42</name>
+                <description>2015年08月08日 15:42
+新北市三峽區臺7乙線道路前1.4K
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="28">
+                    <coordinates>121.368621,24.899375,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="37">
+                <name>1.9 - 2015年03月29日 9:36</name>
+                <description>2015年03月29日 9:36
+新北市三峽區臺7乙線道路前1.9K
+死亡0
+受傷4
+大型重型1-機車
+普通重型-機車
+大型重型1-機車
+大型重型1-機車
+
+</description>
+                <Point id="36">
+                    <coordinates>121.370866,24.896085,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="45">
+                <name>3.4 - 2015年06月09日 19:11</name>
+                <description>2015年06月09日 19:11
+新北市三峽區臺7乙線道路前0公尺數台7乙3.4K處西向一般車道(未劃分車道圳頭51號前
+死亡0
+受傷1
+自用-大貨車
+普通重型-機車
+
+
+
+</description>
+                <Point id="44">
+                    <coordinates>121.377018,24.884305,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="49">
+                <name>3.8 - 2015年11月15日 16:11</name>
+                <description>2015年11月15日 16:11
+新北市三峽區臺7乙線道路前3.8K
+死亡0
+受傷3
+大型重型1-機車
+大型重型1-機車
+大型重型1-機車
+
+
+</description>
+                <Point id="48">
+                    <coordinates>121.379124,24.881454,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="61">
+                <name>5.0 - 2015年06月03日 21:52</name>
+                <description>2015年06月03日 21:52
+新北市三峽區五寮里1鄰臺7乙線道路前5.0K
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="60">
+                    <coordinates>121.377393,24.872258,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="65">
+                <name>6.1 - 2015年09月27日 10:30</name>
+                <description>2015年09月27日 10:30
+新北市三峽區五寮里台7乙線之6.1K處號
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="64">
+                    <coordinates>121.369889,24.866146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="77">
+                <name>7.7 - 2015年05月15日 16:20</name>
+                <description>2015年05月15日 16:20
+新北市三峽區五寮里臺7乙線道路7.7K處
+死亡0
+受傷1
+自用-大貨車
+大型重型1-機車
+
+
+
+</description>
+                <Point id="76">
+                    <coordinates>121.359318,24.857156,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="81">
+                <name>7.7 - 2015年05月30日 15:55</name>
+                <description>2015年05月30日 15:55
+新北市三峽區五寮里6鄰臺7乙線道路前7.7K數前7.7公尺五寮市民活動中心前(五寮派出所旁)
+死亡0
+受傷1
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="80">
+                    <coordinates>121.35928,24.857127,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="85">
+                <name>7.9 - 2015年01月04日 13:35</name>
+                <description>2015年01月04日 13:35
+新北市三峽區五寮里臺7乙線道路7.9K
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="84">
+                    <coordinates>121.358889,24.85549,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="89">
+                <name>7.9 - 2015年05月16日 8:49</name>
+                <description>2015年05月16日 8:49
+新北市三峽區五寮里臺7乙線道路前7.9K
+死亡0
+受傷2
+普通重型-機車
+大型重型1-機車
+
+
+
+</description>
+                <Point id="88">
+                    <coordinates>121.358767,24.855438,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="93">
+                <name>8.0 - 2015年04月04日 21:04</name>
+                <description>2015年04月04日 21:04
+新北市三峽區五寮里臺7乙線道路前8.0K
+死亡0
+受傷3
+普通重型-機車
+普通重型-機車
+普通重型-機車
+普通重型-機車
+
+</description>
+                <Point id="92">
+                    <coordinates>121.357829,24.855433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="97">
+                <name>8.1 - 2015年09月09日 10:50</name>
+                <description>2015年09月09日 10:50
+新北市三峽區五寮里臺7乙線道路前8.1K
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="96">
+                    <coordinates>121.357116,24.85481,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="109">
+                <name>8.6 - 2015年01月06日 13:00</name>
+                <description>2015年01月06日 13:00
+桃園市大溪區台7乙線8.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="108">
+                    <coordinates>121.353789,24.852625,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="113">
+                <name>8.6 - 2015年02月28日 16:53</name>
+                <description>2015年02月28日 16:53
+桃園市大溪區台7乙線8.6K處北向外側車道
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="112">
+                    <coordinates>121.353922,24.852693,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="137">
+                <name>8.7 - 2015年10月20日 13:17</name>
+                <description>2015年10月20日 13:17
+桃園市大溪區台7乙線8.7K(附近)
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+自用-小客車
+
+
+</description>
+                <Point id="136">
+                    <coordinates>121.353154,24.852309,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="149">
+                <name>8.9 - 2015年04月15日 16:30</name>
+                <description>2015年04月15日 16:30
+桃園市大溪區台7乙線8.9公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="148">
+                    <coordinates>121.351557,24.851392,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="157">
+                <name>9.0 - 2015年07月31日 16:52</name>
+                <description>2015年07月31日 16:52
+桃園市大溪區台7乙線9K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="156">
+                    <coordinates>121.351254,24.850497,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="161">
+                <name>9.0 - 2015年09月19日 16:55</name>
+                <description>2015年09月19日 16:55
+桃園市大溪區台7乙線9K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="160">
+                    <coordinates>121.351234,24.850467,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="165">
+                <name>9.0 - 2015年1月6日 13:05</name>
+                <description>2015年1月6日 13:05
+桃園市大溪區台7乙線9公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="164">
+                    <coordinates>121.351248,24.850408,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="197">
+                <name>9.1 - 2015年04月03日 11:10</name>
+                <description>2015年04月03日 11:10
+桃園市大溪區台7乙線9.1公里(附近)台7乙線9公里100公尺處北向外側車道
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="196">
+                    <coordinates>121.350813,24.849767,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>9.1 - 2015年07月05日 14:10</name>
+                <description>2015年07月05日 14:10
+桃園市大溪區台7乙線9.1K處(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="200">
+                    <coordinates>121.350768,24.84988,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="229">
+                <name>9.6 - 2015年07月26日 12:38</name>
+                <description>2015年07月26日 12:38
+桃園市大溪區台7乙線9.6K處南向中線車道
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="228">
+                    <coordinates>121.347479,24.851777,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="233">
+                <name>9.6 - 2015年10月12日 12:10</name>
+                <description>2015年10月12日 12:10
+桃園市大溪區台7乙線9.6公里處(附近)
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="232">
+                    <coordinates>121.347481,24.851628,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="237">
+                <name>9.6 - 2015年11月22日 12:30</name>
+                <description>2015年11月22日 12:30
+桃園市大溪區台7乙線9.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="236">
+                    <coordinates>121.347484,24.851733,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="273">
+                <name>10.0 - 2015年07月11日 12:40</name>
+                <description>2015年07月11日 12:40
+桃園市大溪區台7乙線10K(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="272">
+                    <coordinates>121.345107,24.852903,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="281">
+                <name>10.1 - 2015年05月02日 12:00</name>
+                <description>2015年05月02日 12:00
+桃園市大溪區台7乙線10.1K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="280">
+                    <coordinates>121.344648,24.853462,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="285">
+                <name>10.1 - 2015年09月06日 13:05</name>
+                <description>2015年09月06日 13:05
+桃園市大溪區台7乙線10.1K處南向中內車道
+死亡0
+受傷2
+普通重型-機車
+自用-小客車
+普通重型-機車
+
+
+</description>
+                <Point id="284">
+                    <coordinates>121.344586,24.853513,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="289">
+                <name>10.2 - 2015年04月19日 15:18</name>
+                <description>2015年04月19日 15:18
+桃園市大溪區台7乙線10.2K處北向內側車道
+死亡0
+受傷2
+自用-小客車
+大型重型2-機車
+大型重型2-機車
+
+
+</description>
+                <Point id="288">
+                    <coordinates>121.343975,24.854146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="293">
+                <name>10.3 - 2015年11月29日 11:20</name>
+                <description>2015年11月29日 11:20
+桃園市大溪區台7乙線10.3K(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="292">
+                    <coordinates>121.343694,24.853344,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="297">
+                <name>10.5 - 2015年09月26日 12:30</name>
+                <description>2015年09月26日 12:30
+桃園市大溪區台7乙線10.5K處北向外側車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="296">
+                    <coordinates>121.343893,24.851876,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="305">
+                <name>10.6 - 2015年10月27日 18:20</name>
+                <description>2015年10月27日 18:20
+桃園市大溪區台7乙10.6K處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="304">
+                    <coordinates>121.344689,24.851432,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="309">
+                <name>10.6 - 2015年2月14日 15:17</name>
+                <description>2015年2月14日 15:17
+桃園市大溪區台7乙線10.6公里處(附近)台7乙線10公里600公尺處南向外側車道
+死亡0
+受傷1
+大型重型1-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="308">
+                    <coordinates>121.34469,24.851559,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="313">
+                <name>10.6 - 2015年2月28日 16:00</name>
+                <description>2015年2月28日 16:00
+桃園市大溪區台七乙線10.6公里處(附近)台7乙線10公里600公尺處北向外側車道
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="312">
+                    <coordinates>121.344651,24.851454,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="333">
+                <name>10.8 - 2015年05月11日 18:35</name>
+                <description>2015年05月11日 18:35
+桃園市大溪區台7乙線10.8公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="332">
+                    <coordinates>121.343333,24.851188,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="341">
+                <name>11.2 - 2015年06月14日 14:20</name>
+                <description>2015年06月14日 14:20
+桃園市大溪區台7乙線11.2K(附近)
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="340">
+                    <coordinates>121.340414,24.851061,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="353">
+                <name>11.3 - 2015年07月21日 19:08</name>
+                <description>2015年07月21日 19:08
+桃園市大溪區台7乙線11.3K北向中線車道
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="352">
+                    <coordinates>121.339721,24.851199,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="357">
+                <name>11.3 - 2015年10月25日 2:12</name>
+                <description>2015年10月25日 2:12
+桃園市大溪區台7乙線11.3K處北向外側車道
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="356">
+                    <coordinates>121.339775,24.851336,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="361">
+                <name>11.3 - 2015年11月10日 9:02</name>
+                <description>2015年11月10日 9:02
+桃園市大溪區台7乙線11.3K(附近)
+死亡0
+受傷1
+自用-小客車
+普通重型-機車
+
+
+
+</description>
+                <Point id="360">
+                    <coordinates>121.339785,24.851241,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="385">
+                <name>11.7 - 2015年09月02日 10:45</name>
+                <description>2015年09月02日 10:45
+桃園市大溪區台7乙線11.7公里處(附近)
+死亡0
+受傷2
+大型重型1-機車
+腳踏自行車-慢車
+腳踏自行車-慢車
+
+
+</description>
+                <Point id="384">
+                    <coordinates>121.336368,24.850105,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="397">
+                <name>11.8 - 2015年07月23日 9:30</name>
+                <description>2015年07月23日 9:30
+桃園市大溪區台7乙線11.8公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="396">
+                    <coordinates>121.335584,24.84978,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="401">
+                <name>11.8 - 2015年09月16日 15:30</name>
+                <description>2015年09月16日 15:30
+桃園市大溪區台7乙線11.8K處北向中外車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="400">
+                    <coordinates>121.335532,24.849781,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="413">
+                <name>11.9 - 2015年09月24日 3:56</name>
+                <description>2015年09月24日 3:56
+桃園市大溪區台7乙線11.9K處北向外側車道
+死亡0
+受傷1
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="412">
+                    <coordinates>121.335034,24.849085,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="417">
+                <name>12.0 - 2015年04月14日 11:05</name>
+                <description>2015年04月14日 11:05
+桃園市大溪區台7乙線12公里處(附近)
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="416">
+                    <coordinates>121.334411,24.848602,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="421">
+                <name>12.0 - 2015年08月06日 16:40</name>
+                <description>2015年08月06日 16:40
+桃園市大溪區台7乙線12K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="420">
+                    <coordinates>121.334426,24.848674,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="453">
+                <name>13.8 - 2015年03月15日 10:00</name>
+                <description>2015年03月15日 10:00
+桃園市大溪區台7乙13.8K(附近)
+死亡0
+受傷1
+自用-小客車
+普通重型-機車
+
+
+
+</description>
+                <Point id="452">
+                    <coordinates>121.330815,24.835049,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="4">
+            <name>2016</name>
+            <Placemark id="17">
+                <name>1.1 - 2016年07月18日 1:00</name>
+                <description>2016年07月18日 1:00
+新北市三峽區臺7乙線道路1.1K前
+死亡0
+受傷5
+自用-小客車
+自用-小客車
+自用-小客車
+自用-小客車
+自用-小客車
+</description>
+                <Point id="16">
+                    <coordinates>121.368105,24.90112,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33">
+                <name>1.6 - 2016年05月09日 14:00</name>
+                <description>2016年05月09日 14:00
+新北市三峽區臺7乙線道路前0公尺數1.6K處
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="32">
+                    <coordinates>121.370325,24.89844,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="57">
+                <name>4.2 - 2016年06月25日 9:10</name>
+                <description>2016年06月25日 9:10
+新北市三峽區臺7乙線道路前0公尺數臺7乙線4.2K處東向一般車道(未劃分車道
+死亡0
+受傷2
+自用-小客車
+大型重型1-機車
+其他人-人
+
+
+</description>
+                <Point id="56">
+                    <coordinates>121.380067,24.878076,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="117">
+                <name>8.6 - 2016年02月29日 15:08</name>
+                <description>2016年02月29日 15:08
+桃園市大溪區台7乙線8.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="116">
+                    <coordinates>121.353844,24.852694,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="121">
+                <name>8.6 - 2016年04月27日 15:45</name>
+                <description>2016年04月27日 15:45
+桃園市大溪區台7乙線8.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="120">
+                    <coordinates>121.353799,24.852745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="125">
+                <name>8.6 - 2016年11月04日 15:10</name>
+                <description>2016年11月04日 15:10
+桃園市大溪區台7乙線8.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="124">
+                    <coordinates>121.353865,24.852697,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="141">
+                <name>8.8 - 2016年04月09日 11:05</name>
+                <description>2016年04月09日 11:05
+桃園市大溪區台7乙線8.8公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="140">
+                    <coordinates>121.352227,24.851965,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="145">
+                <name>8.8 - 2016年05月28日 8:02</name>
+                <description>2016年05月28日 8:02
+桃園市大溪區台7乙線8.8公里處(附近)
+死亡0
+受傷2
+大型重型1-機車
+大型重型1-機車
+大型重型1-機車
+
+
+</description>
+                <Point id="144">
+                    <coordinates>121.352221,24.851873,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="153">
+                <name>8.9 - 2016年05月07日 12:25</name>
+                <description>2016年05月07日 12:25
+桃園市大溪區台7乙線8.9公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="152">
+                    <coordinates>121.351414,24.851325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="169">
+                <name>9.0 - 2016年06月04日 8:19</name>
+                <description>2016年06月04日 8:19
+桃園市大溪區台7乙線9K(附近)
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="168">
+                    <coordinates>121.351313,24.850569,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="173">
+                <name>9.0 - 2016年06月24日 23:50</name>
+                <description>2016年06月24日 23:50
+桃園市大溪區台7乙線9公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="172">
+                    <coordinates>121.351326,24.850449,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="177">
+                <name>9.0 - 2016年11月11日 13:57</name>
+                <description>2016年11月11日 13:57
+桃園市大溪區台7乙線9K(附近)
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="176">
+                    <coordinates>121.351346,24.850457,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="213">
+                <name>9.3 - 2016年01月18日 15:45</name>
+                <description>2016年01月18日 15:45
+桃園市大溪區台7乙線9.3K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="212">
+                    <coordinates>121.348933,24.849892,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="241">
+                <name>9.6 - 2016年05月08日 7:30</name>
+                <description>2016年05月08日 7:30
+桃園市大溪區台7乙線9.6公里處(附近)
+死亡0
+受傷1
+大型重型2-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="240">
+                    <coordinates>121.347522,24.851714,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="245">
+                <name>9.6 - 2016年12月16日 16:20</name>
+                <description>2016年12月16日 16:20
+桃園市大溪區台7乙線9.6K處南向爬坡車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="244">
+                    <coordinates>121.347477,24.851736,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="253">
+                <name>9.7 - 2016年10月17日 16:20</name>
+                <description>2016年10月17日 16:20
+桃園市大溪區台7乙線9.7公里處(附近)
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="252">
+                    <coordinates>121.346603,24.851351,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="257">
+                <name>9.7 - 2016年12月24日 13:45</name>
+                <description>2016年12月24日 13:45
+桃園市大溪區台7乙線9.7公里(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="256">
+                    <coordinates>121.346577,24.851368,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="301">
+                <name>10.5 - 2016年07月21日 0:46</name>
+                <description>2016年07月21日 0:46
+桃園市大溪區台7乙10.5K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="300">
+                    <coordinates>121.343936,24.851758,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="317">
+                <name>10.6 - 2016年07月12日 13:30</name>
+                <description>2016年07月12日 13:30
+桃園市大溪區台7乙線10.6K處北向路旁護欄車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="316">
+                    <coordinates>121.344753,24.851463,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="329">
+                <name>10.7 - 2016年09月06日 7:40</name>
+                <description>2016年09月06日 7:40
+桃園市大溪區台7乙線10.7公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="328">
+                    <coordinates>121.344262,24.851014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="389">
+                <name>11.7 - 2016年09月11日 12:15</name>
+                <description>2016年09月11日 12:15
+桃園市大溪區台7乙線11.7公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="388">
+                    <coordinates>121.33645,24.850091,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="425">
+                <name>12.0 - 2016年07月20日 18:44</name>
+                <description>2016年07月20日 18:44
+桃園市大溪區台7乙線12K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="424">
+                    <coordinates>121.334369,24.848589,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="429">
+                <name>12.2 - 2016年01月25日 14:15</name>
+                <description>2016年01月25日 14:15
+桃園市大溪區台7乙線12.2K處北向補助車道
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="428">
+                    <coordinates>121.334454,24.846873,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="433">
+                <name>12.2 - 2016年08月15日 6:20</name>
+                <description>2016年08月15日 6:20
+桃園市大溪區台7乙線12.2公里處(附近)
+死亡0
+受傷1
+自用-小貨車
+普通重型-機車
+
+
+
+</description>
+                <Point id="432">
+                    <coordinates>121.334444,24.846904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="437">
+                <name>12.8 - 2016年04月05日 16:39</name>
+                <description>2016年04月05日 16:39
+桃園市大溪區台7乙線12.8K(附近)
+死亡0
+受傷2
+自用-小貨車
+普通重型-機車
+普通重型-機車
+
+
+</description>
+                <Point id="436">
+                    <coordinates>121.333482,24.842083,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="441">
+                <name>13.1 - 2016年06月16日 9:29</name>
+                <description>2016年06月16日 9:29
+桃園市大溪區台7乙線13.1K處(附近)
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="440">
+                    <coordinates>121.334278,24.839687,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="457">
+                <name>13.8 - 2016年05月09日 10:02</name>
+                <description>2016年05月09日 10:02
+桃園市大溪區新豐里3-1號旁產業道路〈台7乙線13.8公里處〉(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="456">
+                    <coordinates>121.330839,24.835217,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="5">
+            <Style id="372">
+                <LabelStyle id="373">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>2017</name>
+            <Placemark id="41">
+                <name>3.0 - 2017年07月18日 13:15:00</name>
+                <description>2017年07月18日 13:15:00
+新北市三峽區台7乙線 3公里南向其他
+死亡0
+受傷1
+租賃車-小客車
+自用-小貨車(含客、貨兩用)
+乘客-人
+
+
+</description>
+                <Point id="40">
+                    <coordinates>121.375861,24.887679,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="53">
+                <name>4.0 - 2017年07月08日 12:25:00</name>
+                <description>2017年07月08日 12:25:00
+新北市三峽區台7乙線 4公里南向其他
+死亡0
+受傷1
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="52">
+                    <coordinates>121.379917,24.879813,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="73">
+                <name>7.2 - 2017年11月15日 16:48:00</name>
+                <description>2017年11月15日 16:48:00
+新北市三峽區台7乙線 7.2K處南向其他
+死亡0
+受傷1
+自用-小客車
+大型重型1(550C.C.以上)-機車
+
+
+
+</description>
+                <Point id="72">
+                    <coordinates>121.361674,24.860713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="129">
+                <name>8.6 - 2017年01月23日 10:35:00</name>
+                <description>2017年01月23日 10:35:00
+桃園市大溪區台7乙線8.6公里處
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="128">
+                    <coordinates>121.353824,24.852723,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="133">
+                <name>8.6 - 2017年02月12日 16:25:00</name>
+                <description>2017年02月12日 16:25:00
+桃園市大溪區台7乙 8.6公里處北向補助
+死亡0
+受傷1
+大型重型1(550C.C.以上)-機車
+
+
+
+
+</description>
+                <Point id="132">
+                    <coordinates>121.353898,24.852703,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="181">
+                <name>9.0 - 2017年04月20日 14:55:00</name>
+                <description>2017年04月20日 14:55:00
+桃園市大溪區台7乙 9.0公里南向補助
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="180">
+                    <coordinates>121.351274,24.850411,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="185">
+                <name>9.0 - 2017年07月02日 12:54:00</name>
+                <description>2017年07月02日 12:54:00
+桃園市大溪區台7乙線 9公里
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="184">
+                    <coordinates>121.351222,24.850434,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="189">
+                <name>9.0 - 2017年11月11日 14:46:00</name>
+                <description>2017年11月11日 14:46:00
+桃園市復興區台7乙線 9公里北
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="188">
+                    <coordinates>121.35126,24.850551,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="193">
+                <name>9.0 - 2017年12月22日 15:25:00</name>
+                <description>2017年12月22日 15:25:00
+桃園市大溪區台7乙線 9公里北向路肩
+死亡0
+受傷1
+大型重型1(550C.C.以上)-機車
+
+
+
+
+</description>
+                <Point id="192">
+                    <coordinates>121.351267,24.850537,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="205">
+                <name>9.1 - 2017年10月29日 8:00:22</name>
+                <description>2017年10月29日 8:00:22
+桃園市大溪區台7乙線 9.1K處西向爬坡
+死亡0
+受傷2
+普通重型-機車
+行人-人
+
+
+
+</description>
+                <Point id="204">
+                    <coordinates>121.350728,24.849838,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="217">
+                <name>9.3 - 2017年10月09日 7:15:57</name>
+                <description>2017年10月09日 7:15:57
+桃園市大溪區三民路二段165巷口(台7乙線9.3K)
+死亡0
+受傷2
+自用-小客車
+普通重型-機車
+大型重型1(550C.C.以上)-機車
+
+
+</description>
+                <Point id="216">
+                    <coordinates>121.348898,24.849822,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>9.5 - 2017年12月10日 18:34:00</name>
+                <description>2017年12月10日 18:34:00
+桃園市大溪區台7乙線 9.5K處南向路肩
+死亡0
+受傷1
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="220">
+                    <coordinates>121.34821,24.851415,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="249">
+                <name>9.6 - 2017年12月13日 13:55:00</name>
+                <description>2017年12月13日 13:55:00
+桃園市大溪區台7乙線 9.6K處南向路肩
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="248">
+                    <coordinates>121.347443,24.851609,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="261">
+                <name>9.8 - 2017年03月12日 14:16:00</name>
+                <description>2017年03月12日 14:16:00
+桃園市大溪區台7乙線9.8公里處
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="260">
+                    <coordinates>121.346387,24.852194,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="265">
+                <name>9.8 - 2017年04月03日 10:40:00</name>
+                <description>2017年04月03日 10:40:00
+桃園市大溪區三民路二段136巷口與台7乙線9.8K處
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="264">
+                    <coordinates>121.34641,24.852146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="321">
+                <name>10.6 - 2017年10月10日 15:45:00</name>
+                <description>2017年10月10日 15:45:00
+桃園市大溪區台7乙線 10.6K處北向路肩
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="320">
+                    <coordinates>121.344781,24.851489,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="365">
+                <name>11.3 - 2017年08月13日 7:45:15</name>
+                <description>2017年08月13日 7:45:15
+桃園市大溪區台7乙線 11.3公里3處南
+死亡0
+受傷6
+自用-小客車
+自用-小貨車(含客、貨兩用)
+乘客-人
+乘客-人
+乘客-人
+乘客-人</description>
+                <Point id="364">
+                    <coordinates>121.339693,24.851202,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="369">
+                <name>11.3 - 2017年12月24日 14:12:00</name>
+                <description>2017年12月24日 14:12:00
+桃園市大溪區台7乙11.3K
+死亡1
+受傷0
+普通輕型-機車
+自用-小客車
+
+
+
+</description>
+                <styleUrl>#372</styleUrl>
+                <Point id="368">
+                    <coordinates>121.339683,24.851278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="449">
+                <name>13.7 - 2017年05月10日 1:00:00</name>
+                <description>2017年05月10日 1:00:00
+桃園市大溪區台7乙線 13.7公里處西向補助
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="448">
+                    <coordinates>121.331706,24.835583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="465">
+                <name>13.9 - 2017年11月11日 13:56:00</name>
+                <description>2017年11月11日 13:56:00
 桃園市大溪區台7乙線13.9公里處附近
 死亡0
 受傷1
@@ -1829,13 +1840,13 @@
 
 
 </description>
-            <Point id="230">
-                <coordinates>121.330363,24.83439,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="233">
-            <name>17.5 - 2017年07月21日 17:30:00</name>
-            <description>2017年07月21日 17:30:00
+                <Point id="464">
+                    <coordinates>121.330222,24.834327,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="469">
+                <name>17.5 - 2017年07月21日 17:30:00</name>
+                <description>2017年07月21日 17:30:00
 桃園市復興區台7乙線 17.5公里
 死亡0
 受傷1
@@ -1845,9 +1856,1864 @@
 
 
 </description>
-            <Point id="232">
-                <coordinates>7e-06,-4.2e-05,0.0</coordinates>
-            </Point>
-        </Placemark>
+                <Point id="468">
+                    <coordinates>3.6e-05,-8.1e-05,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="6">
+            <name>自摔/自撞</name>
+            <Placemark id="11">
+                <name>1.0 - 2015年05月11日 2:40</name>
+                <description>2015年05月11日 2:40
+新北市三峽區前0公尺數台7乙線1K處
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="10">
+                    <coordinates>121.368444,24.901843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="15">
+                <name>1.1 - 2015年07月17日 11:15</name>
+                <description>2015年07月17日 11:15
+新北市三峽區臺7乙線道路前1.1K
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="14">
+                    <coordinates>121.368138,24.901189,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="23">
+                <name>1.2 - 2015年01月22日 16:30</name>
+                <description>2015年01月22日 16:30
+新北市三峽區臺7乙線道路1.2K往大溪
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="22">
+                    <coordinates>121.367261,24.900571,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="27">
+                <name>1.2 - 2015年04月06日 9:46</name>
+                <description>2015年04月06日 9:46
+新北市三峽區臺7乙線道路前1.2K
+死亡0
+受傷1
+腳踏自行車-慢車
+
+
+
+
+</description>
+                <Point id="26">
+                    <coordinates>121.367269,24.900552,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="31">
+                <name>1.4 - 2015年08月08日 15:42</name>
+                <description>2015年08月08日 15:42
+新北市三峽區臺7乙線道路前1.4K
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="30">
+                    <coordinates>121.368621,24.899375,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="35">
+                <name>1.6 - 2016年05月09日 14:00</name>
+                <description>2016年05月09日 14:00
+新北市三峽區臺7乙線道路前0公尺數1.6K處
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="34">
+                    <coordinates>121.370325,24.89844,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="63">
+                <name>5.0 - 2015年06月03日 21:52</name>
+                <description>2015年06月03日 21:52
+新北市三峽區五寮里1鄰臺7乙線道路前5.0K
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="62">
+                    <coordinates>121.377393,24.872258,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="67">
+                <name>6.1 - 2015年09月27日 10:30</name>
+                <description>2015年09月27日 10:30
+新北市三峽區五寮里台7乙線之6.1K處號
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="66">
+                    <coordinates>121.369889,24.866146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="103">
+                <name>8.3 - 2014年04月03日 15:29</name>
+                <description>2014年04月03日 15:29
+桃園縣大溪鎮台7乙線8.3公里處(附近)
+死亡0
+受傷1
+普通輕型-機車
+
+
+
+
+</description>
+                <Point id="102">
+                    <coordinates>121.356124,24.853837,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="107">
+                <name>8.6 - 2014年09月27日 1:13</name>
+                <description>2014年09月27日 1:13
+桃園縣大溪鎮台7乙線8.6K處北向內側車道
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="106">
+                    <coordinates>121.353907,24.852688,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="111">
+                <name>8.6 - 2015年01月06日 13:00</name>
+                <description>2015年01月06日 13:00
+桃園市大溪區台7乙線8.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="110">
+                    <coordinates>121.353789,24.852625,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="115">
+                <name>8.6 - 2015年02月28日 16:53</name>
+                <description>2015年02月28日 16:53
+桃園市大溪區台7乙線8.6K處北向外側車道
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="114">
+                    <coordinates>121.353922,24.852693,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="119">
+                <name>8.6 - 2016年02月29日 15:08</name>
+                <description>2016年02月29日 15:08
+桃園市大溪區台7乙線8.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="118">
+                    <coordinates>121.353844,24.852694,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="123">
+                <name>8.6 - 2016年04月27日 15:45</name>
+                <description>2016年04月27日 15:45
+桃園市大溪區台7乙線8.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="122">
+                    <coordinates>121.353799,24.852745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="127">
+                <name>8.6 - 2016年11月04日 15:10</name>
+                <description>2016年11月04日 15:10
+桃園市大溪區台7乙線8.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="126">
+                    <coordinates>121.353865,24.852697,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="131">
+                <name>8.6 - 2017年01月23日 10:35:00</name>
+                <description>2017年01月23日 10:35:00
+桃園市大溪區台7乙線8.6公里處
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="130">
+                    <coordinates>121.353824,24.852723,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="135">
+                <name>8.6 - 2017年02月12日 16:25:00</name>
+                <description>2017年02月12日 16:25:00
+桃園市大溪區台7乙 8.6公里處北向補助
+死亡0
+受傷1
+大型重型1(550C.C.以上)-機車
+
+
+
+
+</description>
+                <Point id="134">
+                    <coordinates>121.353898,24.852703,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="143">
+                <name>8.8 - 2016年04月09日 11:05</name>
+                <description>2016年04月09日 11:05
+桃園市大溪區台7乙線8.8公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="142">
+                    <coordinates>121.352227,24.851965,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="151">
+                <name>8.9 - 2015年04月15日 16:30</name>
+                <description>2015年04月15日 16:30
+桃園市大溪區台7乙線8.9公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="150">
+                    <coordinates>121.351557,24.851392,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="159">
+                <name>9.0 - 2015年07月31日 16:52</name>
+                <description>2015年07月31日 16:52
+桃園市大溪區台7乙線9K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="158">
+                    <coordinates>121.351254,24.850497,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="163">
+                <name>9.0 - 2015年09月19日 16:55</name>
+                <description>2015年09月19日 16:55
+桃園市大溪區台7乙線9K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="162">
+                    <coordinates>121.351234,24.850467,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="167">
+                <name>9.0 - 2015年1月6日 13:05</name>
+                <description>2015年1月6日 13:05
+桃園市大溪區台7乙線9公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="166">
+                    <coordinates>121.351248,24.850408,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="171">
+                <name>9.0 - 2016年06月04日 8:19</name>
+                <description>2016年06月04日 8:19
+桃園市大溪區台7乙線9K(附近)
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="170">
+                    <coordinates>121.351313,24.850569,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="175">
+                <name>9.0 - 2016年06月24日 23:50</name>
+                <description>2016年06月24日 23:50
+桃園市大溪區台7乙線9公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="174">
+                    <coordinates>121.351326,24.850449,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="179">
+                <name>9.0 - 2016年11月11日 13:57</name>
+                <description>2016年11月11日 13:57
+桃園市大溪區台7乙線9K(附近)
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="178">
+                    <coordinates>121.351346,24.850457,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="187">
+                <name>9.0 - 2017年07月02日 12:54:00</name>
+                <description>2017年07月02日 12:54:00
+桃園市大溪區台7乙線 9公里
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="186">
+                    <coordinates>121.351222,24.850434,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="191">
+                <name>9.0 - 2017年11月11日 14:46:00</name>
+                <description>2017年11月11日 14:46:00
+桃園市復興區台7乙線 9公里北
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="190">
+                    <coordinates>121.35126,24.850551,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="195">
+                <name>9.0 - 2017年12月22日 15:25:00</name>
+                <description>2017年12月22日 15:25:00
+桃園市大溪區台7乙線 9公里北向路肩
+死亡0
+受傷1
+大型重型1(550C.C.以上)-機車
+
+
+
+
+</description>
+                <Point id="194">
+                    <coordinates>121.351267,24.850537,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="215">
+                <name>9.3 - 2016年01月18日 15:45</name>
+                <description>2016年01月18日 15:45
+桃園市大溪區台7乙線9.3K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="214">
+                    <coordinates>121.348933,24.849892,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="235">
+                <name>9.6 - 2015年10月12日 12:10</name>
+                <description>2015年10月12日 12:10
+桃園市大溪區台7乙線9.6公里處(附近)
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="234">
+                    <coordinates>121.347481,24.851628,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="247">
+                <name>9.6 - 2016年12月16日 16:20</name>
+                <description>2016年12月16日 16:20
+桃園市大溪區台7乙線9.6K處南向爬坡車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="246">
+                    <coordinates>121.347477,24.851736,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="251">
+                <name>9.6 - 2017年12月13日 13:55:00</name>
+                <description>2017年12月13日 13:55:00
+桃園市大溪區台7乙線 9.6K處南向路肩
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="250">
+                    <coordinates>121.347443,24.851609,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="255">
+                <name>9.7 - 2016年10月17日 16:20</name>
+                <description>2016年10月17日 16:20
+桃園市大溪區台7乙線9.7公里處(附近)
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="254">
+                    <coordinates>121.346603,24.851351,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="259">
+                <name>9.7 - 2016年12月24日 13:45</name>
+                <description>2016年12月24日 13:45
+桃園市大溪區台7乙線9.7公里(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="258">
+                    <coordinates>121.346577,24.851368,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="271">
+                <name>10.0 - 2014年07月02日 14:40</name>
+                <description>2014年07月02日 14:40
+桃園縣大溪鎮台7乙線10K處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="270">
+                    <coordinates>121.345021,24.852886,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="279">
+                <name>10.1 - 2014年07月18日 23:50</name>
+                <description>2014年07月18日 23:50
+桃園縣大溪鎮台7乙線10.1公里處(附近)
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="278">
+                    <coordinates>121.344653,24.85347,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="283">
+                <name>10.1 - 2015年05月02日 12:00</name>
+                <description>2015年05月02日 12:00
+桃園市大溪區台7乙線10.1K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="282">
+                    <coordinates>121.344648,24.853462,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="299">
+                <name>10.5 - 2015年09月26日 12:30</name>
+                <description>2015年09月26日 12:30
+桃園市大溪區台7乙線10.5K處北向外側車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="298">
+                    <coordinates>121.343893,24.851876,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="303">
+                <name>10.5 - 2016年07月21日 0:46</name>
+                <description>2016年07月21日 0:46
+桃園市大溪區台7乙10.5K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="302">
+                    <coordinates>121.343936,24.851758,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="307">
+                <name>10.6 - 2015年10月27日 18:20</name>
+                <description>2015年10月27日 18:20
+桃園市大溪區台7乙10.6K處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="306">
+                    <coordinates>121.344689,24.851432,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="319">
+                <name>10.6 - 2016年07月12日 13:30</name>
+                <description>2016年07月12日 13:30
+桃園市大溪區台7乙線10.6K處北向路旁護欄車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="318">
+                    <coordinates>121.344753,24.851463,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="323">
+                <name>10.6 - 2017年10月10日 15:45:00</name>
+                <description>2017年10月10日 15:45:00
+桃園市大溪區台7乙線 10.6K處北向路肩
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="322">
+                    <coordinates>121.344781,24.851489,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="327">
+                <name>10.7 - 2014年04月19日 15:50</name>
+                <description>2014年04月19日 15:50
+桃園縣大溪鎮新峰里台7乙線10.7K處北向爬坡車道
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="326">
+                    <coordinates>121.344248,24.850904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="331">
+                <name>10.7 - 2016年09月06日 7:40</name>
+                <description>2016年09月06日 7:40
+桃園市大溪區台7乙線10.7公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="330">
+                    <coordinates>121.344262,24.851014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="335">
+                <name>10.8 - 2015年05月11日 18:35</name>
+                <description>2015年05月11日 18:35
+桃園市大溪區台7乙線10.8公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="334">
+                    <coordinates>121.343333,24.851188,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="339">
+                <name>11.0 - 2014年11月20日 15:37</name>
+                <description>2014年11月20日 15:37
+桃園縣大溪鎮新峰里台7乙線11.0K處北向外側車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="338">
+                    <coordinates>121.341929,24.852209,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="343">
+                <name>11.2 - 2015年06月14日 14:20</name>
+                <description>2015年06月14日 14:20
+桃園市大溪區台7乙線11.2K(附近)
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="342">
+                    <coordinates>121.340414,24.851061,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="351">
+                <name>11.3 - 2014年06月17日 1:20</name>
+                <description>2014年06月17日 1:20
+桃園縣大溪鎮台7乙線11.3K處北向爬坡車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="350">
+                    <coordinates>121.339742,24.851233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="359">
+                <name>11.3 - 2015年10月25日 2:12</name>
+                <description>2015年10月25日 2:12
+桃園市大溪區台7乙線11.3K處北向外側車道
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="358">
+                    <coordinates>121.339775,24.851336,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="379">
+                <name>11.5 - 2014年09月08日 1:05</name>
+                <description>2014年09月08日 1:05
+桃園縣大溪鎮台7乙線11.5K處北向內側車道
+死亡0
+受傷1
+自用-小客車
+
+
+
+
+</description>
+                <Point id="378">
+                    <coordinates>121.33812,24.850947,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="391">
+                <name>11.7 - 2016年09月11日 12:15</name>
+                <description>2016年09月11日 12:15
+桃園市大溪區台7乙線11.7公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="390">
+                    <coordinates>121.33645,24.850091,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="395">
+                <name>11.8 - 2014年08月24日 14:10</name>
+                <description>2014年08月24日 14:10
+桃園縣大溪鎮台七乙線11.8公里處(附近)台7乙線11.85K處北向爬坡車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="394">
+                    <coordinates>121.33556,24.849814,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="399">
+                <name>11.8 - 2015年07月23日 9:30</name>
+                <description>2015年07月23日 9:30
+桃園市大溪區台7乙線11.8公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="398">
+                    <coordinates>121.335584,24.84978,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="403">
+                <name>11.8 - 2015年09月16日 15:30</name>
+                <description>2015年09月16日 15:30
+桃園市大溪區台7乙線11.8K處北向中外車道
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="402">
+                    <coordinates>121.335532,24.849781,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="423">
+                <name>12.0 - 2015年08月06日 16:40</name>
+                <description>2015年08月06日 16:40
+桃園市大溪區台7乙線12K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="422">
+                    <coordinates>121.334426,24.848674,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="427">
+                <name>12.0 - 2016年07月20日 18:44</name>
+                <description>2016年07月20日 18:44
+桃園市大溪區台7乙線12K(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="426">
+                    <coordinates>121.334369,24.848589,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="431">
+                <name>12.2 - 2016年01月25日 14:15</name>
+                <description>2016年01月25日 14:15
+桃園市大溪區台7乙線12.2K處北向補助車道
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="430">
+                    <coordinates>121.334454,24.846873,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="443">
+                <name>13.1 - 2016年06月16日 9:29</name>
+                <description>2016年06月16日 9:29
+桃園市大溪區台7乙線13.1K處(附近)
+死亡0
+受傷1
+大型重型1-機車
+
+
+
+
+</description>
+                <Point id="442">
+                    <coordinates>121.334278,24.839687,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="451">
+                <name>13.7 - 2017年05月10日 1:00:00</name>
+                <description>2017年05月10日 1:00:00
+桃園市大溪區台7乙線 13.7公里處西向補助
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="450">
+                    <coordinates>121.331706,24.835583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="459">
+                <name>13.8 - 2016年05月09日 10:02</name>
+                <description>2016年05月09日 10:02
+桃園市大溪區新豐里3-1號旁產業道路〈台7乙線13.8公里處〉(附近)
+死亡0
+受傷1
+普通重型-機車
+
+
+
+
+</description>
+                <Point id="458">
+                    <coordinates>121.330839,24.835217,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="7">
+            <Style id="374">
+                <LabelStyle id="375">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>涉入第三人</name>
+            <Placemark id="19">
+                <name>1.1 - 2016年07月18日 1:00</name>
+                <description>2016年07月18日 1:00
+新北市三峽區臺7乙線道路1.1K前
+死亡0
+受傷5
+自用-小客車
+自用-小客車
+自用-小客車
+自用-小客車
+自用-小客車
+</description>
+                <Point id="18">
+                    <coordinates>121.368105,24.90112,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="39">
+                <name>1.9 - 2015年03月29日 9:36</name>
+                <description>2015年03月29日 9:36
+新北市三峽區臺7乙線道路前1.9K
+死亡0
+受傷4
+大型重型1-機車
+普通重型-機車
+大型重型1-機車
+大型重型1-機車
+
+</description>
+                <Point id="38">
+                    <coordinates>121.370866,24.896085,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="43">
+                <name>3.0 - 2017年07月18日 13:15:00</name>
+                <description>2017年07月18日 13:15:00
+新北市三峽區台7乙線 3公里南向其他
+死亡0
+受傷1
+租賃車-小客車
+自用-小貨車(含客、貨兩用)
+乘客-人
+
+
+</description>
+                <Point id="42">
+                    <coordinates>121.375861,24.887679,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="47">
+                <name>3.4 - 2015年06月09日 19:11</name>
+                <description>2015年06月09日 19:11
+新北市三峽區臺7乙線道路前0公尺數台7乙3.4K處西向一般車道(未劃分車道圳頭51號前
+死亡0
+受傷1
+自用-大貨車
+普通重型-機車
+
+
+
+</description>
+                <Point id="46">
+                    <coordinates>121.377018,24.884305,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="51">
+                <name>3.8 - 2015年11月15日 16:11</name>
+                <description>2015年11月15日 16:11
+新北市三峽區臺7乙線道路前3.8K
+死亡0
+受傷3
+大型重型1-機車
+大型重型1-機車
+大型重型1-機車
+
+
+</description>
+                <Point id="50">
+                    <coordinates>121.379124,24.881454,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="55">
+                <name>4.0 - 2017年07月08日 12:25:00</name>
+                <description>2017年07月08日 12:25:00
+新北市三峽區台7乙線 4公里南向其他
+死亡0
+受傷1
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="54">
+                    <coordinates>121.379917,24.879813,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="59">
+                <name>4.2 - 2016年06月25日 9:10</name>
+                <description>2016年06月25日 9:10
+新北市三峽區臺7乙線道路前0公尺數臺7乙線4.2K處東向一般車道(未劃分車道
+死亡0
+受傷2
+自用-小客車
+大型重型1-機車
+其他人-人
+
+
+</description>
+                <Point id="58">
+                    <coordinates>121.380067,24.878076,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="71">
+                <name>6.5 - 2014年11月06日 15:21</name>
+                <description>2014年11月06日 15:21
+新北市三峽區臺7乙線道路前6.5K
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="70">
+                    <coordinates>121.366596,24.864652,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="75">
+                <name>7.2 - 2017年11月15日 16:48:00</name>
+                <description>2017年11月15日 16:48:00
+新北市三峽區台7乙線 7.2K處南向其他
+死亡0
+受傷1
+自用-小客車
+大型重型1(550C.C.以上)-機車
+
+
+
+</description>
+                <Point id="74">
+                    <coordinates>121.361674,24.860713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="79">
+                <name>7.7 - 2015年05月15日 16:20</name>
+                <description>2015年05月15日 16:20
+新北市三峽區五寮里臺7乙線道路7.7K處
+死亡0
+受傷1
+自用-大貨車
+大型重型1-機車
+
+
+
+</description>
+                <Point id="78">
+                    <coordinates>121.359318,24.857156,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="83">
+                <name>7.7 - 2015年05月30日 15:55</name>
+                <description>2015年05月30日 15:55
+新北市三峽區五寮里6鄰臺7乙線道路前7.7K數前7.7公尺五寮市民活動中心前(五寮派出所旁)
+死亡0
+受傷1
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="82">
+                    <coordinates>121.35928,24.857127,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="87">
+                <name>7.9 - 2015年01月04日 13:35</name>
+                <description>2015年01月04日 13:35
+新北市三峽區五寮里臺7乙線道路7.9K
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="86">
+                    <coordinates>121.358889,24.85549,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="91">
+                <name>7.9 - 2015年05月16日 8:49</name>
+                <description>2015年05月16日 8:49
+新北市三峽區五寮里臺7乙線道路前7.9K
+死亡0
+受傷2
+普通重型-機車
+大型重型1-機車
+
+
+
+</description>
+                <Point id="90">
+                    <coordinates>121.358767,24.855438,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="95">
+                <name>8.0 - 2015年04月04日 21:04</name>
+                <description>2015年04月04日 21:04
+新北市三峽區五寮里臺7乙線道路前8.0K
+死亡0
+受傷3
+普通重型-機車
+普通重型-機車
+普通重型-機車
+普通重型-機車
+
+</description>
+                <Point id="94">
+                    <coordinates>121.357829,24.855433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="99">
+                <name>8.1 - 2015年09月09日 10:50</name>
+                <description>2015年09月09日 10:50
+新北市三峽區五寮里臺7乙線道路前8.1K
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="98">
+                    <coordinates>121.357116,24.85481,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="139">
+                <name>8.7 - 2015年10月20日 13:17</name>
+                <description>2015年10月20日 13:17
+桃園市大溪區台7乙線8.7K(附近)
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+自用-小客車
+
+
+</description>
+                <Point id="138">
+                    <coordinates>121.353154,24.852309,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="147">
+                <name>8.8 - 2016年05月28日 8:02</name>
+                <description>2016年05月28日 8:02
+桃園市大溪區台7乙線8.8公里處(附近)
+死亡0
+受傷2
+大型重型1-機車
+大型重型1-機車
+大型重型1-機車
+
+
+</description>
+                <Point id="146">
+                    <coordinates>121.352221,24.851873,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="155">
+                <name>8.9 - 2016年05月07日 12:25</name>
+                <description>2016年05月07日 12:25
+桃園市大溪區台7乙線8.9公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="154">
+                    <coordinates>121.351414,24.851325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="183">
+                <name>9.0 - 2017年04月20日 14:55:00</name>
+                <description>2017年04月20日 14:55:00
+桃園市大溪區台7乙 9.0公里南向補助
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="182">
+                    <coordinates>121.351274,24.850411,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="199">
+                <name>9.1 - 2015年04月03日 11:10</name>
+                <description>2015年04月03日 11:10
+桃園市大溪區台7乙線9.1公里(附近)台7乙線9公里100公尺處北向外側車道
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="198">
+                    <coordinates>121.350813,24.849767,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="203">
+                <name>9.1 - 2015年07月05日 14:10</name>
+                <description>2015年07月05日 14:10
+桃園市大溪區台7乙線9.1K處(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="202">
+                    <coordinates>121.350768,24.84988,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="207">
+                <name>9.1 - 2017年10月29日 8:00:22</name>
+                <description>2017年10月29日 8:00:22
+桃園市大溪區台7乙線 9.1K處西向爬坡
+死亡0
+受傷2
+普通重型-機車
+行人-人
+
+
+
+</description>
+                <Point id="206">
+                    <coordinates>121.350728,24.849838,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="211">
+                <name>9.3 - 2014年10月12日 16:53</name>
+                <description>2014年10月12日 16:53
+桃園縣大溪鎮台7乙線9.3K處南向外側車道
+死亡0
+受傷2
+普通重型-機車
+其他人-人
+
+
+
+</description>
+                <Point id="210">
+                    <coordinates>121.348845,24.849934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="219">
+                <name>9.3 - 2017年10月09日 7:15:57</name>
+                <description>2017年10月09日 7:15:57
+桃園市大溪區三民路二段165巷口(台7乙線9.3K)
+死亡0
+受傷2
+自用-小客車
+普通重型-機車
+大型重型1(550C.C.以上)-機車
+
+
+</description>
+                <Point id="218">
+                    <coordinates>121.348898,24.849822,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="223">
+                <name>9.5 - 2017年12月10日 18:34:00</name>
+                <description>2017年12月10日 18:34:00
+桃園市大溪區台7乙線 9.5K處南向路肩
+死亡0
+受傷1
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="222">
+                    <coordinates>121.34821,24.851415,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="227">
+                <name>9.6 - 2014年01月30日 11:15</name>
+                <description>2014年01月30日 11:15
+桃園縣大溪鎮台7乙線9.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="226">
+                    <coordinates>121.347467,24.851749,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="231">
+                <name>9.6 - 2015年07月26日 12:38</name>
+                <description>2015年07月26日 12:38
+桃園市大溪區台7乙線9.6K處南向中線車道
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="230">
+                    <coordinates>121.347479,24.851777,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="239">
+                <name>9.6 - 2015年11月22日 12:30</name>
+                <description>2015年11月22日 12:30
+桃園市大溪區台7乙線9.6公里處(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="238">
+                    <coordinates>121.347484,24.851733,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="243">
+                <name>9.6 - 2016年05月08日 7:30</name>
+                <description>2016年05月08日 7:30
+桃園市大溪區台7乙線9.6公里處(附近)
+死亡0
+受傷1
+大型重型2-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="242">
+                    <coordinates>121.347522,24.851714,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="263">
+                <name>9.8 - 2017年03月12日 14:16:00</name>
+                <description>2017年03月12日 14:16:00
+桃園市大溪區台7乙線9.8公里處
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="262">
+                    <coordinates>121.346387,24.852194,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="267">
+                <name>9.8 - 2017年04月03日 10:40:00</name>
+                <description>2017年04月03日 10:40:00
+桃園市大溪區三民路二段136巷口與台7乙線9.8K處
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="266">
+                    <coordinates>121.34641,24.852146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="275">
+                <name>10.0 - 2015年07月11日 12:40</name>
+                <description>2015年07月11日 12:40
+桃園市大溪區台7乙線10K(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="274">
+                    <coordinates>121.345107,24.852903,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="287">
+                <name>10.1 - 2015年09月06日 13:05</name>
+                <description>2015年09月06日 13:05
+桃園市大溪區台7乙線10.1K處南向中內車道
+死亡0
+受傷2
+普通重型-機車
+自用-小客車
+普通重型-機車
+
+
+</description>
+                <Point id="286">
+                    <coordinates>121.344586,24.853513,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="291">
+                <name>10.2 - 2015年04月19日 15:18</name>
+                <description>2015年04月19日 15:18
+桃園市大溪區台7乙線10.2K處北向內側車道
+死亡0
+受傷2
+自用-小客車
+大型重型2-機車
+大型重型2-機車
+
+
+</description>
+                <Point id="290">
+                    <coordinates>121.343975,24.854146,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="295">
+                <name>10.3 - 2015年11月29日 11:20</name>
+                <description>2015年11月29日 11:20
+桃園市大溪區台7乙線10.3K(附近)
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="294">
+                    <coordinates>121.343694,24.853344,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="311">
+                <name>10.6 - 2015年2月14日 15:17</name>
+                <description>2015年2月14日 15:17
+桃園市大溪區台7乙線10.6公里處(附近)台7乙線10公里600公尺處南向外側車道
+死亡0
+受傷1
+大型重型1-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="310">
+                    <coordinates>121.34469,24.851559,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="315">
+                <name>10.6 - 2015年2月28日 16:00</name>
+                <description>2015年2月28日 16:00
+桃園市大溪區台七乙線10.6公里處(附近)台7乙線10公里600公尺處北向外側車道
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="314">
+                    <coordinates>121.344651,24.851454,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="347">
+                <name>11.3 - 2014年04月21日 15:00</name>
+                <description>2014年04月21日 15:00
+桃園縣大溪鎮新峰里里8鄰台7乙線11.3K處北向爬坡車道
+死亡0
+受傷2
+普通重型-機車
+大型重型1-機車
+
+
+
+</description>
+                <Point id="346">
+                    <coordinates>121.339733,24.851206,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="355">
+                <name>11.3 - 2015年07月21日 19:08</name>
+                <description>2015年07月21日 19:08
+桃園市大溪區台7乙線11.3K北向中線車道
+死亡0
+受傷1
+普通重型-機車
+自用-小貨車
+
+
+
+</description>
+                <Point id="354">
+                    <coordinates>121.339721,24.851199,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="363">
+                <name>11.3 - 2015年11月10日 9:02</name>
+                <description>2015年11月10日 9:02
+桃園市大溪區台7乙線11.3K(附近)
+死亡0
+受傷1
+自用-小客車
+普通重型-機車
+
+
+
+</description>
+                <Point id="362">
+                    <coordinates>121.339785,24.851241,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="367">
+                <name>11.3 - 2017年08月13日 7:45:15</name>
+                <description>2017年08月13日 7:45:15
+桃園市大溪區台7乙線 11.3公里3處南
+死亡0
+受傷6
+自用-小客車
+自用-小貨車(含客、貨兩用)
+乘客-人
+乘客-人
+乘客-人
+乘客-人</description>
+                <Point id="366">
+                    <coordinates>121.339693,24.851202,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="371">
+                <name>11.3 - 2017年12月24日 14:12:00</name>
+                <description>2017年12月24日 14:12:00
+桃園市大溪區台7乙11.3K
+死亡1
+受傷0
+普通輕型-機車
+自用-小客車
+
+
+
+</description>
+                <styleUrl>#374</styleUrl>
+                <Point id="370">
+                    <coordinates>121.339683,24.851278,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="383">
+                <name>11.7 - 2014年02月03日 9:20</name>
+                <description>2014年02月03日 9:20
+桃園縣大溪鎮新峰里9鄰台七乙線11.7K處(附近)台7乙線11公里7公尺處西向中線車道
+死亡0
+受傷2
+大型重型1-機車
+普通重型-機車
+普通重型-機車
+
+
+</description>
+                <Point id="382">
+                    <coordinates>121.336466,24.850149,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="387">
+                <name>11.7 - 2015年09月02日 10:45</name>
+                <description>2015年09月02日 10:45
+桃園市大溪區台7乙線11.7公里處(附近)
+死亡0
+受傷2
+大型重型1-機車
+腳踏自行車-慢車
+腳踏自行車-慢車
+
+
+</description>
+                <Point id="386">
+                    <coordinates>121.336368,24.850105,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="407">
+                <name>11.9 - 2014年02月26日 13:43</name>
+                <description>2014年02月26日 13:43
+桃園縣大溪鎮新峰里9鄰台7乙線11.9K處南向東車道
+死亡0
+受傷1
+自用-小貨車
+普通重型-機車
+
+
+
+</description>
+                <Point id="406">
+                    <coordinates>121.33503,24.849175,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="411">
+                <name>11.9 - 2014年08月04日 11:00</name>
+                <description>2014年08月04日 11:00
+桃園縣大溪鎮新峰里三民路二段(附近)台7乙線11.9K處東向中線車道
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="410">
+                    <coordinates>121.335034,24.849108,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="415">
+                <name>11.9 - 2015年09月24日 3:56</name>
+                <description>2015年09月24日 3:56
+桃園市大溪區台7乙線11.9K處北向外側車道
+死亡0
+受傷1
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="414">
+                    <coordinates>121.335034,24.849085,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="419">
+                <name>12.0 - 2015年04月14日 11:05</name>
+                <description>2015年04月14日 11:05
+桃園市大溪區台7乙線12公里處(附近)
+死亡0
+受傷2
+普通重型-機車
+普通重型-機車
+
+
+
+</description>
+                <Point id="418">
+                    <coordinates>121.334411,24.848602,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="435">
+                <name>12.2 - 2016年08月15日 6:20</name>
+                <description>2016年08月15日 6:20
+桃園市大溪區台7乙線12.2公里處(附近)
+死亡0
+受傷1
+自用-小貨車
+普通重型-機車
+
+
+
+</description>
+                <Point id="434">
+                    <coordinates>121.334444,24.846904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="439">
+                <name>12.8 - 2016年04月05日 16:39</name>
+                <description>2016年04月05日 16:39
+桃園市大溪區台7乙線12.8K(附近)
+死亡0
+受傷2
+自用-小貨車
+普通重型-機車
+普通重型-機車
+
+
+</description>
+                <Point id="438">
+                    <coordinates>121.333482,24.842083,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="447">
+                <name>13.3 - 2014年01月05日 11:50</name>
+                <description>2014年01月05日 11:50
+桃園縣大溪鎮台七乙線13.3公里處(附近)台7乙線13公里300公尺處東向中線車道
+死亡0
+受傷1
+普通重型-機車
+自用-小客車
+
+
+
+</description>
+                <Point id="446">
+                    <coordinates>121.334329,24.837892,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="455">
+                <name>13.8 - 2015年03月15日 10:00</name>
+                <description>2015年03月15日 10:00
+桃園市大溪區台7乙13.8K(附近)
+死亡0
+受傷1
+自用-小客車
+普通重型-機車
+
+
+
+</description>
+                <Point id="454">
+                    <coordinates>121.330815,24.835049,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="463">
+                <name>13.9 - 2014年07月13日 10:30</name>
+                <description>2014年07月13日 10:30
+桃園縣復興鄉三民村12鄰三民路1段48號前(附近)台7乙線13.9K處北向補助車道
+死亡0
+受傷1
+普通重型-機車
+普通輕型-機車
+自用-小客車
+
+
+</description>
+                <Point id="462">
+                    <coordinates>121.330242,24.834382,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="467">
+                <name>13.9 - 2017年11月11日 13:56:00</name>
+                <description>2017年11月11日 13:56:00
+桃園市大溪區台7乙線13.9公里處附近
+死亡0
+受傷1
+自用-小客車
+普通重型-機車
+
+
+
+</description>
+                <Point id="466">
+                    <coordinates>121.330222,24.834327,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="471">
+                <name>17.5 - 2017年07月21日 17:30:00</name>
+                <description>2017年07月21日 17:30:00
+桃園市復興區台7乙線 17.5公里
+死亡0
+受傷1
+自用-大貨車
+普通重型-機車
+
+
+
+</description>
+                <Point id="470">
+                    <coordinates>3.6e-05,-8.1e-05,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
     </Document>
 </kml>

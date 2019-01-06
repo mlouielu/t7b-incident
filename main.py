@@ -62,12 +62,27 @@ def main(path):
 
     locations.sort()
     kml = simplekml.Kml()
+
+    years = {str(year): kml.newfolder(name=str(year)) for year in range(2014, 2018)}
+    contributing = {'self': kml.newfolder(name='自摔/自撞'), 'others': kml.newfolder(name='涉入第三人')}
     for loc in locations:
         lat, lng = get_random_gps_nearby(*get_gps_points(loc[0]), 10)
-        pt = kml.newpoint(name=f'{loc[0]} - {loc[1][0]}', coords=[(lng, lat)])
-        pt.description = '\n'.join(loc[1])
-        if not loc[1][2].endswith('0'):
-            pt.style.labelstyle.color = 'ff0000ff'
+
+        pts = []
+
+        # Years
+        folder = years[loc[1][0][:4]]
+        pts.append(folder.newpoint(name=f'{loc[0]} - {loc[1][0]}', coords=[(lng, lat)]))
+
+        # contributing
+        folder = contributing['self'] if len(list(
+            filter(lambda x: x, loc[1][4:]))) == 1 else contributing['others']
+        pts.append(folder.newpoint(name=f'{loc[0]} - {loc[1][0]}', coords=[(lng, lat)]))
+
+        for pt in pts:
+            pt.description = '\n'.join(loc[1])
+            if not loc[1][2].endswith('0'):
+                pt.style.labelstyle.color = 'ff0000ff'
 
     kml.save('t7b_incident.kml')
 
