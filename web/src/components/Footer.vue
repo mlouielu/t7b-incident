@@ -3,9 +3,10 @@
     <div class="main-footer-container">
       <div class="main-footer-content">
         <a href="/">台7乙交通事故互動地圖</a>
-		<a href="https://www.npa.gov.tw/NPAGip/wSite/lp?ctNode=12854&CtUnit=2633&BaseDSD=7&mp=3">原始資料來源</a>
-		<a href="https://github.com/mlouielu/t7b-incident">GitHub</a>
-		<a href="https://drive.google.com/open?id=1dQJedHZMkBw3LE9kHxW5quamcjjdv2uz&usp=sharing">Google Maps</a>
+		<a href="https://goo.gl/yZdQLR">原始資料來源</a>
+		<a href="https://goo.gl/AdzPpp~">GitHub</a>
+		<a href="https://goo.gl/zz3Kv1">Google Maps</a>
+		<a href="https://goo.gl/2J7PWA">事故資料</a>
       </div>
     </div>
   </footer>
