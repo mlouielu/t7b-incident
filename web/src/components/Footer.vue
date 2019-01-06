@@ -8,6 +8,10 @@
 		<a href="https://goo.gl/zz3Kv1">Google Maps</a>
 		<a href="https://goo.gl/2J7PWA">事故資料</a>
       </div>
+	  <div class="main-footer-content" style="width:150px;font-size:12px;padding-left:20px;margin-right:30px">
+		<a rel="license" href="http://creativecommons.org/licenses/by/3.0/tw/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/tw/88x31.png" /></a><br>
+		本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/3.0/tw/" style="padding-left:0px">創用 CC 姓名標示 3.0 台灣授權條款</a>授權.
+	  </div>
     </div>
   </footer>
 </template>
