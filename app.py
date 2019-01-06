@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import csv
+import datetime
 import re
 
 from flask import Flask, jsonify
@@ -34,6 +35,7 @@ def get_incident_metadata(r, location, lat, lng):
     return {
         'description': '\n'.join(r).strip(),
         'date': date,
+        'weekend': datetime.datetime.strptime(date, '%Y-%m-%d').weekday() > 4,
         'time': time,
         'minutes': int(time.split(':')[0]) * 60 + int(time.split(':')[1]),
         'dead': dead,
