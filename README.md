@@ -10,10 +10,10 @@ data source: [警政署歷史交通事故資料](https://www.npa.gov.tw/NPAGip/w
 File Structure
 ==============
 
-`data.csv`: 所有 2014 ~ 2017 的台 7 乙事故資料 (A1, A2)
-`main.py`: 將所有事故資料轉換成 kml
-`t7b_mileage_sign.csv`: 台 7 乙所有里程樁
-`t7b_incident.kml`: 轉換後的 kml 檔
+* `data.csv`: 所有 2014 ~ 2017 的台 7 乙事故資料 (A1, A2)
+* `main.py`: 將所有事故資料轉換成 kml
+* `t7b_mileage_sign.csv`: 台 7 乙所有里程樁
+* `t7b_incident.kml`: 轉換後的 kml 檔
 
 
 How To Use
