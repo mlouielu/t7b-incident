@@ -108,10 +108,10 @@ export default {
 	  // Filters
 	  self_contributing: this.$route.query.sc === "1" ? true : false,
 	  multiple_contributing: this.$route.query.mc === "1" ? true : false,
-	  normal_motorcycle: false,
-	  big_motorcycle: false,
-	  light_motorcycle: false,
-	  car: false,
+	  normal_motorcycle: this.$route.query.iv.indexOf('nm') > -1 ? true : false,
+	  big_motorcycle: this.$route.query.iv.indexOf('bm') > -1 ? true : false,
+	  light_motorcycle: this.$route.query.iv.indexOf('lm') > -1 ? true : false,
+	  car: this.$route.query.iv.indexOf('car') > -1 ? true : false,
 	  markers: [],
 	  marker_filters: []
     }
