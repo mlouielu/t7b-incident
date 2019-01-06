@@ -102,7 +102,7 @@ export default {
 	  timelineChartOptions: {},
 
 	  // Date picker
-	  fromDate: moment(this.$route.query.from ? this.$route.query.from : '2014-1-1').toDate(),
+	  fromDate: moment(this.$route.query.from ? this.$route.query.from : '2014-01-01').toDate(),
 	  toDate: moment(this.$route.query.to ? this.$route.query.to : '2017-12-31').toDate(),
 
 	  // Times
