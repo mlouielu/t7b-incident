@@ -47,6 +47,10 @@
 			<b-form-checkbox v-model="light_motorcycle">輕型機車</b-form-checkbox>
 			<b-form-checkbox v-model="car">小客車</b-form-checkbox>
 		  </b-form-group>
+		  <b-form-group label="平假日">
+			<b-form-checkbox v-model="weekday">平日</b-form-checkbox>
+			<b-form-checkbox v-model="weekend">假日</b-form-checkbox>
+		  </b-form-group>
 		</b-card>
 	  </b-col>
 	</b-row>
@@ -112,11 +116,19 @@ export default {
 	  big_motorcycle: this.$route.query.iv && this.$route.query.iv.indexOf('bm') > -1 ? true : false,
 	  light_motorcycle: this.$route.query.iv && this.$route.query.iv.indexOf('lm') > -1 ? true : false,
 	  car: this.$route.query.iv && this.$route.query.iv.indexOf('car') > -1 ? true : false,
+	  weekday: true,
+	  weekend: true,
 	  markers: [],
 	  marker_filters: []
     }
   },
   watch: {
+	weekday: function(val) {
+	  this.updateFilterMarkers()
+	},
+	weekend: function(val) {
+	  this.updateFilterMarkers()
+	},
 	fromDate: function(val) {
 	  this.updateFilterMarkers()
 	},
@@ -188,6 +200,19 @@ export default {
 		  }
 		} else if (this.self_contributing === false && this.multiple_contributing === true) {
 		  if (incident.contributing.length == 1) {
+			token = false
+		  }
+		}
+
+		// weekday or weekend
+		if (this.weekday === false && this.weekend === false) {
+		  token = false
+		} else if (this.weekday === true && this.weekend === false) {
+		  if (incident.weekend === true) {
+			token = false
+		  }
+		} else if (this.weekday === false && this.weekend === true) {
+		  if (incident.weekend === false) {
 			token = false
 		  }
 		}
