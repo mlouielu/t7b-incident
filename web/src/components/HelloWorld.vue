@@ -57,6 +57,13 @@
 		</b-card>
 	  </b-col>
 	</b-row>
+	<b-row>
+	  <b-col>
+		<b-card border-variant="danger" header-bg-variant="danger" header-text-variant="white" header="事故時間軸" align="center">
+		  <highcharts :options="timelineChartOptions"></highcharts>
+		</b-card>
+	  </b-col>
+	</b-row>
   </b-container>
 </div>
 </template>
@@ -88,6 +95,7 @@ export default {
 		}
 	  },
 	  currentMidx: null,
+	  timelineChartOptions: {},
 
 	  // Date picker
 	  fromDate: moment(this.$route.query.from ? this.$route.query.from : '2014-1-1').toDate(),
@@ -210,7 +218,49 @@ export default {
 		  this.marker_filters.push(this.markers[i])
 		}
       }
-    }
+	  this.updateTimelineChart()
+    },
+	updateTimelineChart: function() {
+	  var data = []
+	  var dd = new Proxy({}, {
+		get: (target, name) => name in target ? target[name] : 0
+	  })
+
+	  var start = this.fromDate
+	  var end = this.toDate
+
+	  // Convert to date
+	  for (var i = 0; i < this.marker_filters.length; ++i) {
+		dd[this.marker_filters[i].date] += 1
+	  }
+
+	  console.log(dd)
+	  // Push into data
+	  for (var m = moment(start); m.isBefore(end); m.add(1, 'days')) {
+		data.push([m.toDate(), dd[m.format('YYYY-MM-DD')]])
+	  }
+
+	  this.timelineChartOptions = {
+		chart: {
+		  type: 'column',
+		  polar: true,
+		  height: 200
+		},
+		xAxis: {
+		  type: 'datetime',
+		},
+		yAxis: {
+		  tickInterval: 1
+		},
+		title: {
+		  text: ''
+		},
+		series: [{
+		  name: '台7乙事故數量',
+		  data: data
+		}]
+	  }
+	}
   },
   mounted () {
 	console.log(this.$route.query)
@@ -218,7 +268,8 @@ export default {
       .get('https://t7b.freeway.pw/api/incidents')
       .then(response => (
         this.markers = response.data.data,
-		this.updateFilterMarkers()
+		this.updateFilterMarkers(),
+		this.updateTimelineChart()
       ))
   }
 
