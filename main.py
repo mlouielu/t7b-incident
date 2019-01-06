@@ -22,15 +22,6 @@ def get_mileage_sign():
     return mileage_sign
 
 
-def midpoint(lat1, long1, lat2, long2, percentage):
-    lat1 = float(lat1)
-    long1 = float(long1)
-    lat2 = float(lat2)
-    long2 = float(long2)
-    return (lat1 + (lat2 - lat1) * percentage,
-            long1 + (long2 - long1) * percentage)
-
-
 def get_gps_points(loc):
     if loc in MILEAGE_SIGN:
         return MILEAGE_SIGN[loc]
@@ -85,6 +76,11 @@ def main(path):
                 pt.style.labelstyle.color = 'ff0000ff'
 
     kml.save('t7b_incident.kml')
+
+
+def init_mileage_sign():
+    global MILEAGE_SIGN
+    MILEAGE_SIGN = get_mileage_sign()
 
 
 if __name__ == '__main__':
