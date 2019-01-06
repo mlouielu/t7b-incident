@@ -90,16 +90,16 @@ export default {
 	  currentMidx: null,
 
 	  // Date picker
-	  fromDate: moment('2014-1-1').toDate(),
-	  toDate: moment('2017-12-31').toDate(),
+	  fromDate: moment(this.$route.query.from ? this.$route.query.from : '2014-1-1').toDate(),
+	  toDate: moment(this.$route.query.to ? this.$route.query.to : '2017-12-31').toDate(),
 
 	  // Times
 	  fromTime: "00:00",
 	  toTime: "23:59",
 
 	  // Filters
-	  self_contributing: false,
-	  multiple_contributing: false,
+	  self_contributing: this.$route.query.sc === "1" ? true : false,
+	  multiple_contributing: this.$route.query.mc === "1" ? true : false,
 	  normal_motorcycle: false,
 	  big_motorcycle: false,
 	  light_motorcycle: false,
@@ -213,10 +213,12 @@ export default {
     }
   },
   mounted () {
+	console.log(this.$route.query)
     this.axios
-      .get('api/incidents')
+      .get('https://t7b.freeway.pw/api/incidents')
       .then(response => (
-        this.markers = response.data.data
+        this.markers = response.data.data,
+		this.updateFilterMarkers()
       ))
   }
 
