@@ -214,7 +214,7 @@ export default {
   },
   mounted () {
     this.axios
-      .get('http://localhost:5000/incidents')
+      .get('api/incidents')
       .then(response => (
         this.markers = response.data.data
       ))
