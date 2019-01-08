@@ -26,3 +26,24 @@ $ ls
 ```
 
 將 t7b_incident.kml 上傳至 google mymaps 觀看
+
+
+Web
+===
+
+Front-end
+
+```
+$ cd web
+$ npm install
+$ npm run dev   # local development
+$ npm run build # build production dist
+```
+
+Backend
+
+```
+$ pipenv install
+$ pipenv install gunicorn
+$ pipenv run gunicorn -b 0.0.0.0:8888 app:app
+```
